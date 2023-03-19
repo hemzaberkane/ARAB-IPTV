@@ -10,7 +10,7 @@ https://royatv-live.daioncdn.net/royatv/royatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.almamlakatv.com/css/frontcss/images/logo.png" ,المملكة
 https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ammantv.net/images/logo.svg" ,عـــمّــــان
-https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live/master.m3u8
+https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.aonetv.tv/images/logo.png" ,الأردنية الأولى 
 http://master.starmena-cloud.com/hls/a1jo.m3u8
 #EXTINF:-1 tvg-logo="",الإمارات العربية المتحدة
@@ -80,15 +80,15 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://dai.ly/x74wje5
 #EXTINF:-1 tvg-logo="",البحرين
 0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="" ,البحرين
-
+https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" ,البحرين الدولية
-
+https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" ,البحرين الرياضية 1
-
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" ,البحرين الرياضية 2
-
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" ,البحرين القرآن الكريم
-
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="",الــــجزائر
 0.0.0.0
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV1.png" ,EPTV 1 الأولى
@@ -334,7 +334,7 @@ http://91.134.145.75:10001/Dijlah/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/05/AlMajlis-1-200x150.png" ,المجلس
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/AlraiTV-200x150.png" ,الراي
-
+https://media2.streambrothers.com:1936/8106/8106/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/kw/scopetv.png" ,Scoop Tv
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.atvkuwait.com/img/logo/atv_logo.png" ,العدالة
@@ -503,13 +503,13 @@ https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3
 #EXTINF:-1 tvg-logo="",عُــــمان
 0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/om/omantv.png" ,عُمان
-https://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/playlist.m3u8
+https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/om/omansports.png" ,عُمان الرياضية
-https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/om/omancultural.png" ,عُمان الثقافية
-https://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/playlist.m3u8
+https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/om/omanlive.png" ,عُمان مباشر
-https://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/playlist.m3u8
+https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/om/alistiqama.png" ,الإستقامة
 https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
 
@@ -517,12 +517,12 @@ https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
 0.0.0.0
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/www.pbc.ps/wp-content/uploads/2021/08/pbc_logo_w256.png" ,فلسطين
-https://pbc.furrera.ps/palestinehd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,فلسطين مباشر
-https://pbc.furrera.ps/palestinelivehd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,صوت فلسطين
+https://pbc.furrera.ps/palestinehd/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/www.pbc.ps/wp-content/uploads/2021/09/%D9%82%D9%86%D8%A7%D8%A9-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1.webp" ,فلسطين مباشر
+https://pbc.furrera.ps/palestinelivehd/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/www.pbc.ps/wp-content/uploads/2021/09/%D8%B5%D9%88%D8%AA-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86.webp" ,صوت فلسطين
 https://pbc.furrera.ps/voiceofpalestine/tracks-a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://musawachannel.com/sites/all/themes/musawa/images/logo.png" ,مساواة
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.musawachannel.com/sites/all/themes/musawa/images/logo.png" ,مساواة
 https://pbc.furrera.ps/musawahd/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://seraj.tv/style/atyaf/assets/images/logo.png" ,الأقصى
 https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
