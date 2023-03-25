@@ -436,8 +436,22 @@ https://broadcast.ice.infomaniak.ch/aswat-high.mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_yemen.gif",اليمن
 0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://yementv.tv/wp-content/uploads/2019/11/logo-Yemen-01-copy.png" ,اليمن 1 
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/yemen_tv
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://suhail.net/themes/default/images/arabic/logo.jpg" ,سهيل 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.hadhramaut.tv/img/1605966334logo.png" ,حضرموت
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,عدن
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://yemenshabab.net/images/logo.png" ,يمن شباب
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.masirahtv.net/assets/images/logo.png" ,المسيرة
+https://svs.itworkscdn.net/almasiralive/almasira.smil/almasira_chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://almahriah.net/images/logo.png" ,المهرية
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.yementdy.tv/logo.png" ,اليمن اليوم
+https://video.yementdy.tv/hls/yementoday.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Animated-Flag-Tunisia.gif",تونس
 0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.watania1.tn/sites/default/files/main_logo_watania1_0.png"  ,الوطنية 1
