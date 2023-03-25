@@ -159,7 +159,7 @@ http://numide.servemp3.com:8089/hls/ay1.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/echaabia.png",Echaabia TV الشّعبية 
 
-#EXTINF:-1 tvg-logo="https://www.mbc.net/dam/jcr:b062dbf0-b8e0-4d06-8042-1cf300efcb70/logo-mbc@3x.png",المملكة العربية السعودية
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Animated-Flag-Saudi-Arabia.gif",المملكة العربية السعودية
 0.0.0.0
 #EXTINF:-1 tvg-id="SBC.sa" tvg-logo="https://aloula.faulio.com/storage/mediagallery/79/c6/small_946269c528b9c02926a56044d8220afd574b31f7.png" ,SBC
 https://edge.taghtia.com/sa/1.m3u8
@@ -348,7 +348,7 @@ https://svs.itworkscdn.net/itwlive/itw.smil/itw_chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Animated-Flag-Morocco.gif",المغرب
 0.0.0.0
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/WcFBy41/oula.png" group-title="National TV" ,Al Oula الأولى
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/WcFBy41/oula.png"  ,Al Oula الأولى
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GQmw3nx/laayoune.png" ,Al Oula Laayoune الأولى العيون
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
@@ -677,7 +677,7 @@ https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/WVBwpmD/medina.jpg" ,المدينة
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Animated-Flag-Saudi-Arabia.gif",أطفال
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/This_was_4_of_Dafydd_Evans%27_children..gif",أطفال
 0.0.0.0
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/sa/spacetoon.png" ,Space Toon FHD
@@ -700,7 +700,7 @@ https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f4
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/4kids.png" ,4 Kids
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Animated-Flag-Saudi-Arabia.gif",أخبار
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Breaking.gif",أخبار
 0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/884RcMF/aljazera.png" ,AL JAZEERA الجزيرة الإخبارية
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
@@ -730,5 +730,5 @@ https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GQbQGkG/trt-ar.jpg" ,TRT ARA
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qMFKcBh/CGTN-arabic.png" CGTN ARA
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qMFKcBh/CGTN-arabic.png", CGTN ARA
 https://livear.cgtn.com/1000a/prog_index.m3u8
