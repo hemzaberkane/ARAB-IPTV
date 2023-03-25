@@ -569,9 +569,14 @@ https://live.paltodaytv.com/paltv/live/chunklist.m3u8
 http://217.21.0.15:8081/pnn/pnn/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.falastini.tv/wp-content/uploads/2021/07/Logo-White-PNG-600.png" ,فلسطيني
 https://cdg8.edge.technocdn.com/palestiniantv_source/live/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/4g4VNx7/quds-tv.png",QUDS TV
+#EXTINF:0 tvg-logo="https://i.ibb.co/4g4VNx7/quds-tv.png",قدس
 http://live.alqudstoday.tv:8080/hls/alqudstv/alqudstv.m3u8
-
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1452908844284272645/JbdExxv4_400x400.jpg",عودة
+http://htvpalsat.mada.ps:8888/audeh/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/4g4VNx7/quds-tv.png",نابلس " راديو مرح "
+http://htvmada.mada.ps:8888/nabluslive/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/4g4VNx7/quds-tv.png",وطـــن
+http://htvmada.mada.ps:8888/wattan/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Animated-Flag-Qatar.gif",قـــــطـــر
 0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.qtv.qa/Assets2022/images/logo.png" ,قطر 1
