@@ -13,7 +13,7 @@ https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.aonetv.tv/images/logo.png" ,الأردنية الأولى 
 http://master.starmena-cloud.com/hls/a1jo.m3u8
-#EXTINF:-1 tvg-logo="",الإمارات العربية المتحدة
+#EXTINF:-1 tvg-logo="https://www.crossed-flag-pins.com/animated-flag-gif/gifs/United-Arab-Emirates_240-animated-flag-gifs.gif",الإمارات العربية المتحدة
 0.0.0.0
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5fdc89c729.png" ,أبوظبي
@@ -77,7 +77,7 @@ https://l3.itworkscdn.net/smcradiolive/smcradiolive/icecast.audio
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.alaan.tv/wp-content/themes/alaan-child-tv/assets/img/logo.png" ,الآن 
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://dai.ly/x74wje5
 
-#EXTINF:-1 tvg-logo="",البحرين
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated_flag_of_Bahrain.gif",البحرين
 0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="" ,البحرين
 https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
@@ -89,7 +89,7 @@ https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" ,البحرين القرآن الكريم
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="",الــــجزائر
+#EXTINF:-1 tvg-logo="https://www.crossed-flag-pins.com/animated-flag-gif/gifs/Algeria_240-animated-flag-gifs.gif",الــــجزائر
 0.0.0.0
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV1.png" ,EPTV 1 الأولى
 
@@ -263,9 +263,8 @@ https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe
 
 #EXTINF:-1 tvg-id="LBC.sa" tvg-logo="https://rotana.net/triAssets/uploads/2020/11/lbc.png" ,LBC
 https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="",السودان
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Sudan.gif",السودان
 0.0.0.0
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://sudantv.sd/ar/wp-content/themes/sudantv/images/logo.png" ,السودان
 https://castor.streamthatvideo.co:8081/sudantv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" ,السودان الإخبارية
