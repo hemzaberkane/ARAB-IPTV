@@ -13,6 +13,14 @@ https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.aonetv.tv/images/logo.png" ,الأردنية الأولى 
 http://master.starmena-cloud.com/hls/a1jo.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.jrtv.gov.jo/resize-width/380/content/j/xT/7/Thumbnail.png" ,الإذاعة الأردنية
+https://jrtv-live.ercdn.net/jrradio/jordanradiovideo.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.jrtv.gov.jo/resize-width/380/content/q/H-/4/Thumbnail.png" ,إذاعة عمّان أف أم
+https://jrtv-live.ercdn.net/jrradio/ammanradiovideo.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.jrtv.gov.jo/resize-width/380/content/5/No/5/Thumbnail.png" ,RADIO JORDAN 96.3 FM
+https://jrtv-live.ercdn.net/jrradio/englishradiovideo.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.jrtv.gov.jo/resize-width/380/content/7/Mv/3/Thumbnail.png" ,إذاعة القرآن الكريم
+https://jrtv-live.ercdn.net/jrradio/quranradiovideo.m3u8
 #EXTINF:-1 tvg-logo="https://www.crossed-flag-pins.com/animated-flag-gif/gifs/United-Arab-Emirates_240-animated-flag-gifs.gif",الإمارات العربية المتحدة
 0.0.0.0
 
