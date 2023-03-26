@@ -34,10 +34,6 @@ https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/5e3ad6b210.png" ,أبو ظبي الرياضية 2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/5e3ad6bec3.png" ,أبو ظبي الرياضية 3
-https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/6214d50c63.png" ,أبو ظبي الرياضية 4
-https://admdn4ta.cdn.mgmlcdn.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/5e4c03ef4b.png" ,ياس
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.dmi.gov.ae/content/dam/corporate/icons/DubaiTV.png" ,دبي
@@ -809,6 +805,8 @@ https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976
 0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/884RcMF/aljazera.png" ,AL JAZEERA الجزيرة الإخبارية
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i1.sndcdn.com/avatars-000163249127-onw500-t240x240.jpg" ,الجزيرة مباشر
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/w7wk4p0/alarabiya.png" ,AL ARABIYA العربية
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/sw6tV5W/alhadath.jpg" ,AL ARABIYA AL HADATH العربية الحدث
@@ -821,10 +819,14 @@ https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 https://mbnvvideoingest-i.akamaihd.net/hls/live/1004673/MBNV_ALHURRA_MAIN/merge.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/QPP13X6/rtar.jpg" ,RT ARA روسيا اليوم
 https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.alhiwar.tv/all/images/logo.png" ,الحـــوار
+https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/yRc4rDX/bbcar.png" ,BBC ARA بي بي سي عربي
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_dash_live_http.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fFyvbrC/skynewsar.png" ,SKY NEWS ARA سكاي نيوز عربية
 https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://almashhad.com/static/images/LogoBlue.svg" ,المشهد
+https://bcovlive-a.akamaihd.net/179f03ac9b434844b909d7f63b4da4d7/ap-south-1/6313884884001/profile_2/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.almayadeen.tv/images/logo/new-logo-small.png" ,AL MAYADEEN الميادين
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/8d1Srb9/alalam.jpg" ,AL ALAM IR العالم الإيرانية
@@ -832,7 +834,7 @@ https://live2.alalam.ir/alalam.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Fmvtnr7/dw-ar.png" ,DW ARA صوت ألمانيا
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/5KW5f2K/france24ar.png" ,FRANCE 24 ARA فرنسا 24
-https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
+https://ythls.onrender.com/channel/UCdTyuXgmJkG_O8_75eqej-w.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GQbQGkG/trt-ar.jpg" ,TRT ARA
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qMFKcBh/CGTN-arabic.png", CGTN ARA
