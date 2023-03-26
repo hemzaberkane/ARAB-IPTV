@@ -327,8 +327,56 @@ https://mn-nl.mncdn.com/utviraqi2/64c80359/chunklist.m3u8
 https://media1.livaat.com/AL-RASHEED-HD/tracks-v1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://alrafidain.tv/wp-content/uploads/2022/04/%D9%84%D9%88%D8%BA%D9%88-%D8%A8%D8%AF%D9%88%D9%86-%D9%84%D8%A7%D9%86%D9%86%D8%A7-%D8%AD%D8%B6%D8%A7%D8%B1%D8%A9-1.png" ,الرافدين
 https://cdg8.edge.technocdn.com/arrafidaintv/abr_live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" , البغدادية
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://alghadeertv.iq/wp-content/uploads/2021/03/Broadcast_v3.png" , الغدير
+https://sd343444.vodu.store:3356/live/Alghadeer/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://afaq.iq/static/images/site/logo_afaq2.png" ,أفاق
+https://stream.afaqtv.iq/live/channel/afaqtv/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://alahad.iq/img/logo.png" ,العهد
+http://148.66.130.171:1935/Alahadlive/AlahadTV/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://alrabiaa.faulio.com/storage/mediagallery/0c/c5/fullhd_d8d18b714df2265bcb61d11ebb9ca0175511aa7f.png" ,الرّابعة
+https://cllive.itworkscdn.net/alrabiaatvnewslive/token=nva=1679838052~dirs=1~hash=009a6103e441dc714f0b0/alrabiaatv.smil/alrabiaatv_source_chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://alrabiaa.faulio.com/storage/mediagallery/89/e6/small_339459b245351e2cf3a4f8fe3a00927ab1d56a80.png" ,الرّابعة
+https://cllive.itworkscdn.net/alrabiaatvnewslive/token=nva=1679838108~dirs=1~hash=086a6aafddcf077ef195e/alrabiaatv2.smil/alrabiaatv2_chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://kurdistantv.net/Web/media/logo.png" ,Kurdistan TV
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist.m3u
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.ntviraq.com/wene/logo.png" ,NRT NEWS
+https://media.streambrothers.com:1936/8226/8226/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://zagrosnews.net/content/upload/1/root/logo.svg" ,ZAGROS TV
+https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,KURDSAT TV
+https://ikomg2.mmdlive.lldns.net/ikomg2/366ca61db4c646a2bf9cd9f92dd6321c/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.kurdsatnews.com/images/logo.png" ,KURDSAT NEWS
+https://ikomg2.mmdlive.lldns.net/ikomg2/107b7df8f5444d778f349100739a09cd/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://kurdmaxcms.com/asset/image/footer_logo/%D9%A1_1.png" ,KURDMAX
+https://5aa8c7549bfa9.streamlock.net/liveTrans/KurdmaxS0rani!/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://kurdmaxcms.com/asset/image/footer_logo/show_2.png" ,KURDMAX SHOW
+https://5aa8c7549bfa9.streamlock.net/liveTrans/SHOW1/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.avaentertainment.net/img/logos/logo-white.png" ,AVA TV
+https://cdn3.wowza.com/1/OWNQVXVWc0dQclJz/RXJPdHJx/hls/tmcmjh3v/2728/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.rudaw.net/images/logo.svg" ,RUDAW TV
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/rudawtv_chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,K24
+https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.speda.net/images/2020/01/speda.png" ,SPEDA TV
+http://speda.dwasat.com/upload/images/spedahd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.gksat.tv/wene/logo.png" ,GELI KURDISTAN TV
+https://live.bradosti.net/live/GaliKurdistan/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://afarin.tv/images/logo.png" ,AFARIN KIDS TV
+https://5ab29cc78f681.streamlock.net/afarinTV/livestream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.peyam.net/wene/logo.png" ,PEYAM TV
+https://5ab29cc78f681.streamlock.net/PayamTV/livestream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.knnc.net/wene/logo.png" ,KNN 
+https://iptv.kurdlive.xyz:8443/live/knn/knn/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://kirkuktv.net/wene/logo.png" ,KIRKUK TV
+https://5ab29cc78f681.streamlock.net/IHTV/livestream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://jintv.net/img/logo.png" ,JIN TV
+https://live.jintv.org/medialive/jintv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvkomala.com/wp-content/uploads/2022/05/xlogotv.png.pagespeed.ic.Z2MXSpS5hA.webp" ,KOMALA TV
+https://live.tvkomala.com/live/komala/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cihan.com/storage/sectors/December2019/jnUhqGH7Poovt1sjmomU.png" ,CIHAN TV
+http://cihan.dwasat.com/upload/images/cihanhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,ISHTAR TV
+http://ishtar.cdncast.xyz:1935/live/iShtarHD/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Kuwait-animated.gif",الـــــكويت
 0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/28/Ktv_1.png" ,الكويت 1
