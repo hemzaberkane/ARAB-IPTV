@@ -442,7 +442,7 @@ http://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/wJrfbDy/chada.png" ,Chada TV شدى 
 https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/thdqRRH/atlas.jpg" ,Canal Atlas
-
+https://edge13.vedge.infomaniak.com/livecast/ik:atlasfight/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" ,Radio Nationale الإذاعة الوطنية 
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_idaa_watanya/hls_snrt_radio/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Sr2jXyj/tamazigh.png" ,Radio Amazigh الإذاعة الأمازيغية
@@ -494,7 +494,7 @@ https://broadcast.ice.infomaniak.ch/aswat-high.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://yementv.tv/wp-content/uploads/2019/11/logo-Yemen-01-copy.png" ,اليمن 1 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://suhail.net/themes/default/images/arabic/logo.jpg" ,سهيل 
-
+http://82.212.74.98:8000/live/hls/7726.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.hadhramaut.tv/img/1605966334logo.png" ,حضرموت
 
 #EXTINF:-1 tvg-id="" tvg-logo="" ,عدن
@@ -647,6 +647,8 @@ http://htvpalsat.mada.ps:8888/audeh/tracks-v1a1/mono.m3u8
 http://htvmada.mada.ps:8888/nabluslive/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4g4VNx7/quds-tv.png",وطـــن
 http://htvmada.mada.ps:8888/wattan/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="http://www.wbn.ps/assets/images/logo.png",وتر
+http://htvint.mada.ps:8889/orient/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Animated-Flag-Qatar.gif",قـــــطـــر
 0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.qtv.qa/Assets2022/images/logo.png" ,قطر 1
@@ -745,6 +747,14 @@ https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" ,ماسبيرو زمان
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://mekameleen.tv/public/css/logo.png" ,مكملين
+https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://alshoub.tv/wp-content/uploads/2022/11/logo-red.png" ,الشّعوب
+https://cdg8.edge.technocdn.com/alshoobtv/live/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,الشّرق
+https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://watanegypt.tv/wp-content/uploads/2021/10/Logo2020-1-1.png" ,وطن
+https://cdg8.edge.technocdn.com/watantv/live/chunks.m3u8
 #EXTINF:-1 tvg-logo="",مـــوريتانيا
 0.0.0.0
 
