@@ -631,8 +631,6 @@ https://streaming.najah.edu:8443/hls/AlNajah.m3u8
 http://htvmada.mada.ps:8888/maannews/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://alqudstoday.tv/assets/logo/logo.png" ,القدس اليوم
 http://185.5.222.146:8081/live/habbq18/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://paltodaytv.com/style/assets/images/logo.png" ,فلسطين اليوم
-https://live.paltodaytv.com/paltv/live/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.falastini.tv/wp-content/uploads/2021/07/Logo-White-PNG-600.png" ,فلسطيني
 https://cdg8.edge.technocdn.com/palestiniantv_source/live/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4g4VNx7/quds-tv.png",قدس
