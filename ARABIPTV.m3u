@@ -616,13 +616,13 @@ https://pbc.furrera.ps/musawahd/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://seraj.tv/style/atyaf/assets/images/logo.png" ,الأقصى
 https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://tv.alfajertv.com/assets/images/logo.png" ,الفجر 1
-https://www.elAhmad.com/tv/m3u8/online_live_14_tv.m3u8?id=alfajertv&t=75e5c39624db955e3ef56b4321729469
+https://www.elAhmad.com/tv/m3u8/online_live_14_tv.m3u8?id=alfajertv&t=974d0b7365bc7adf581ae3f96bc4a128
 #EXTINF:-1 tvg-id="" tvg-logo="http://tv.alfajertv.com/assets/images/logo.png" ,الفجر 2
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://arn.ps/assets/images/logo.svg" ,أجيال
-http://htvajyal.mada.ps:8888/ajyal/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://arn.ps/assets/images/logo.svg" ,أجيال
-http://htvmada.mada.ps:8888/ajyal/index.m3u8
+http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.rajeen.tv/logo.png" ,راجعين
+https://mn-nl.mncdn.com/palabroad/live/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://nbc.najah.edu/static/images/nbc_logo.png" ,النجاح
 https://streaming.najah.edu:8443/hls/AlNajah.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.maannews.net/assets/images/logo.png" ,معًا
@@ -631,8 +631,6 @@ http://htvmada.mada.ps:8888/maannews/index.m3u8
 http://185.5.222.146:8081/live/habbq18/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://paltodaytv.com/style/assets/images/logo.png" ,فلسطين اليوم
 https://live.paltodaytv.com/paltv/live/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://pnn.ps/wp-content/uploads/2015/02/logo.gif" ,PNN TV
-http://217.21.0.15:8081/pnn/pnn/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.falastini.tv/wp-content/uploads/2021/07/Logo-White-PNG-600.png" ,فلسطيني
 https://cdg8.edge.technocdn.com/palestiniantv_source/live/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4g4VNx7/quds-tv.png",قدس
