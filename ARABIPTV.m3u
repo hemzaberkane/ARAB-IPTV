@@ -626,13 +626,13 @@ https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
 0.0.0.0
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/www.pbc.ps/wp-content/uploads/2021/08/pbc_logo_w256.png" ,فلسطين
-https://pbc.furrera.ps/palestinehd/tracks-v1a1/mono.m3u8
+https://pbc.furrera.ps/palestinehd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/www.pbc.ps/wp-content/uploads/2021/09/%D9%82%D9%86%D8%A7%D8%A9-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1.webp" ,فلسطين مباشر
-https://pbc.furrera.ps/palestinelivehd/tracks-v1a1/mono.m3u8
+https://pbc.furrera.ps/palestinelivehd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/www.pbc.ps/wp-content/uploads/2021/09/%D8%B5%D9%88%D8%AA-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86.webp" ,صوت فلسطين
-https://pbc.furrera.ps/voiceofpalestine/tracks-a1/mono.m3u8
+https://pbc.furrera.ps/voiceofpalestine/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.musawachannel.com/sites/all/themes/musawa/images/logo.png" ,مساواة
-https://pbc.furrera.ps/musawahd/tracks-v1a1/mono.m3u8
+https://pbc.furrera.ps/musawahd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://seraj.tv/style/atyaf/assets/images/logo.png" ,الأقصى
 https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://tv.alfajertv.com/assets/images/logo.png" ,الفجر 1
@@ -703,10 +703,12 @@ https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist.m3u8
 https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.alittihad.tv/live/assets/images/logo_new.png" ,الإتحاد
 https://live.alittihad.tv:444/ittihad/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Animated-Flag-Libya.gif",لــــبـــيــا
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Animated-Flag-Libya.gif",لـيـــبـــيــا
 0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/vzZ6yvs/salam.png" group- ,سلام
 https://b01c02nl.mediatriple.net/videoonlylive/mtiwaxdzdfggbnlive/broadcast_5d1b0969c3188.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://almasartv.ly/wp-content/uploads/2022/01/logo.png" ,المسار
+https://master.starmena-cloud.com/hls/almasar.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/b1S25fP/libya-ahrar.png" ,ليبيا الأحرار
 https://video.zidivo.com:9392/live983/GrtjM_FNGC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/svdWnwb/libyach.webp" ,قناة ليبيا
@@ -719,6 +721,8 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtfknklgwrlive/broadcast_5dc818c7
 https://master.starmena-cloud.com/hls/jam.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://libyaalhadath.net/wp-content/uploads/2022/06/Untitled-1.png" ,ليبيا الحدث
 http://82.212.74.100:8000/live/8103.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://libyabusinesstv.com/wp-content/uploads/2022/06/Logo-V.png" ,ليبيا الإقتصادية
+https://media1.livaat.com/live/Libya-bussness/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Flag_of_Egypt%28Moving%29.gif",مــــصـــر
 0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.maspero.eg/images/live_channels_logos/1667483608.jpeg" ,الأولى
