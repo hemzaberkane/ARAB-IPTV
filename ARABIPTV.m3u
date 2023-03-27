@@ -865,3 +865,10 @@ https://ythls.onrender.com/channel/UCdTyuXgmJkG_O8_75eqej-w.m3u8
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qMFKcBh/CGTN-arabic.png", CGTN ARA
 https://livear.cgtn.com/1000a/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="",إيـــران
+0.0.0.0
+#EXTINF:-1 tvg-id="" tvg-logo="="https://ar.ifilmtv.ir/img/final-logo01.png", إيران فيلم
+https://cdnlive3.presstv.ir/cdnlive/smil:ifilmarcdn.smil/chunklis.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="="",العالم
+https://live2.alalam.ir/live/Alalam_high/index.m3u8
