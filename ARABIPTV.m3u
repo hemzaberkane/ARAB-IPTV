@@ -276,6 +276,14 @@ https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe
 
 #EXTINF:-1 tvg-id="LBC.sa" tvg-logo="https://rotana.net/triAssets/uploads/2020/11/lbc.png" ,LBC
 https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://qaf.tv/wp-content/uploads/2022/03/logo-2022.svg" ,قــاف
+https://mn-nl.mncdn.com/qaf/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://daawah.tv/wp-content/uploads/2023/02/logo-43-1.png" ,دعوة
+https://cdg8.edge.technocdn.com/daawahtv/live/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.iqraa.com/images/lastlogo1.png" ,إقرأ
+https://iqraa-live.ercdn.net/iqraa/iqraa.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://makkahtv.tv/assets/images/makkah-channel-redcolor-1440-alpha-570x716.png" ,مــكّة
+https://media2.streambrothers.com:1936/8122/8122/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Sudan.gif",السودان
 0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://sudantv.sd/ar/wp-content/themes/sudantv/images/logo.png" ,السودان
