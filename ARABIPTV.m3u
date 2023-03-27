@@ -342,6 +342,16 @@ http://148.66.130.171:1935/Alahadlive/AlahadTV/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.alfallujah.tv/sites/all/themes/progressive/progressive_sub/logo.png" ,الفلوجة
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.i-news.tv/wp-content/uploads/2020/11/new-white-logo-1.png" ,i news 
+https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/inewsiqpublish/inewsiq/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,شِهاب
+https://s1.ettehadlive.com/live/67/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.alnojaba.tv/wp-content/uploads/2021/03/%D9%84%D9%88%D9%83%D9%88-%D9%84%D8%BA%D9%8A%D8%AB-.png" ,النُجباء
+https://s1.ettehadlive.com/live/3/chunklist_w803213955.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://m.aletejahtv.iq/uploads/images/logo/logo-white.png" ,الإتجاه
+https://s1.ettehadlive.com/live/33/chunklist_w20815727.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://aleshraqtv.iq/wene/logo.png" ,الإشراق
+https://s1.ettehadlive.com/live/19/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://kurdistantv.net/Web/media/logo.png" ,Kurdistan TV
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.ntviraq.com/wene/logo.png" ,NRT NEWS
