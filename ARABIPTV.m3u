@@ -324,7 +324,6 @@ http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 https://cllive.itworkscdn.net/alsumariatvlive/token=nva=1651973265~dirs=1~hash=079ba4e207a0bc7938905/sumariamob.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/logo-new1.png" ,دجلة
 http://91.134.145.75:10001/Dijlah/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://utviraq.net/wp-content/uploads/2020/12/logo-icon.png" ,UTV
 https://mn-nl.mncdn.com/utviraqi2/64c80359/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.alrasheedmedia.com/wp-content/uploads/2023/02/alrasheedmedia-63ee5e20b5985.png" , الرشيد
@@ -338,13 +337,13 @@ https://stream.afaqtv.iq/live/channel/afaqtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://alahad.iq/img/logo.png" ,العهد
 http://148.66.130.171:1935/Alahadlive/AlahadTV/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://alrabiaa.faulio.com/storage/mediagallery/0c/c5/fullhd_d8d18b714df2265bcb61d11ebb9ca0175511aa7f.png" ,الرّابعة
-https://cllive.itworkscdn.net/alrabiaatvnewslive/token=nva=1679838052~dirs=1~hash=009a6103e441dc714f0b0/alrabiaatv.smil/alrabiaatv_source_chunks.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://alrabiaa.faulio.com/storage/mediagallery/89/e6/small_339459b245351e2cf3a4f8fe3a00927ab1d56a80.png" ,الرّابعة
-https://cllive.itworkscdn.net/alrabiaatvnewslive/token=nva=1679838108~dirs=1~hash=086a6aafddcf077ef195e/alrabiaatv2.smil/alrabiaatv2_chunks.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.alfallujah.tv/sites/all/themes/progressive/progressive_sub/logo.png" ,الفلوجة
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://kurdistantv.net/Web/media/logo.png" ,Kurdistan TV
-https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist.m3u
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.ntviraq.com/wene/logo.png" ,NRT NEWS
 https://media.streambrothers.com:1936/8226/8226/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://zagrosnews.net/content/upload/1/root/logo.svg" ,ZAGROS TV
@@ -361,7 +360,7 @@ https://5aa8c7549bfa9.streamlock.net/liveTrans/SHOW1/chunklist.m3u8
 https://cdn3.wowza.com/1/OWNQVXVWc0dQclJz/RXJPdHJx/hls/tmcmjh3v/2728/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.rudaw.net/images/logo.svg" ,RUDAW TV
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/rudawtv_chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,K24
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Www.24.krd.png/1200px-Www.24.krd.png" ,K24
 https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.speda.net/images/2020/01/speda.png" ,SPEDA TV
 http://speda.dwasat.com/upload/images/spedahd.m3u8
