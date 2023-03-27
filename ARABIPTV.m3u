@@ -493,15 +493,16 @@ https://broadcast.ice.infomaniak.ch/aswat-high.mp3
 http://82.212.74.98:8000/live/hls/7726.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.hadhramaut.tv/img/1605966334logo.png" ,حضرموت
 
-#EXTINF:-1 tvg-id="" tvg-logo="" ,عدن
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://yafa-news.net/wp-content/uploads/2020/12/0-116.jpg",الغد المشرق
+http://82.212.74.3:8000/live/7512.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/0/0a/%D9%82%D9%86%D8%A7%D8%A9_%D8%A8%D9%84%D9%82%D9%8A%D8%B3_%D8%A7%D9%84%D9%81%D8%B6%D8%A7%D8%A6%D9%8A%D8%A9.svg/1200px-%D9%82%D9%86%D8%A7%D8%A9_%D8%A8%D9%84%D9%82%D9%8A%D8%B3_%D8%A7%D9%84%D9%81%D8%B6%D8%A7%D8%A6%D9%8A%D8%A9.svg.png" ,بلقيس
+https://ythls.onrender.com/channel/UCxA_zZwALQMmVMSZyLKC-Nw.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yemenshabab.net/images/logo.png" ,يمن شباب
-
+https://master.starmena-cloud.com/hls/yemenshabab.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.masirahtv.net/assets/images/logo.png" ,المسيرة
 https://svs.itworkscdn.net/almasiralive/almasira.smil/almasira_chunks.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://almahriah.net/images/logo.png" ,المهرية
-
+https://master.starmena-cloud.com/hls/almahriah.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.yementdy.tv/logo.png" ,اليمن اليوم
 https://video.yementdy.tv/hls/yementoday.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Animated-Flag-Tunisia.gif",تونس
