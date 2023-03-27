@@ -623,6 +623,8 @@ http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.rajeen.tv/logo.png" ,راجعين
 https://mn-nl.mncdn.com/palabroad/live/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://paltodaytv.com/style/assets/images/logo.png" ,فلسطين اليوم
+https://live.paltodaytv.com/paltv/live/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://nbc.najah.edu/static/images/nbc_logo.png" ,النجاح
 https://streaming.najah.edu:8443/hls/AlNajah.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.maannews.net/assets/images/logo.png" ,معًا
