@@ -609,13 +609,13 @@ https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
 0.0.0.0
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/www.pbc.ps/wp-content/uploads/2021/08/pbc_logo_w256.png" ,فلسطين
-https://pbc.furrera.ps/palestinehd/tracks-v3a1/mono.m3u8
+https://pbc.furrera.ps/palestinehd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/www.pbc.ps/wp-content/uploads/2021/09/%D9%82%D9%86%D8%A7%D8%A9-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1.webp" ,فلسطين مباشر
-https://pbc.furrera.ps/palestinelivehd/tracks-v3a1/mono.m3u8
+https://pbc.furrera.ps/palestinelivehd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/www.pbc.ps/wp-content/uploads/2021/09/%D8%B5%D9%88%D8%AA-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86.webp" ,صوت فلسطين
 https://pbc.furrera.ps/voiceofpalestine/tracks-a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.musawachannel.com/sites/all/themes/musawa/images/logo.png" ,مساواة
-https://pbc.furrera.ps/musawahd/tracks-v2a1/mono.m3u8
+https://pbc.furrera.ps/musawahd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://seraj.tv/style/atyaf/assets/images/logo.png" ,الأقصى
 https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://tv.alfajertv.com/assets/images/logo.png" ,الفجر 1
@@ -640,6 +640,10 @@ https://cdg8.edge.technocdn.com/palestiniantv_source/live/chunks.m3u8
 http://live.alqudstoday.tv:8080/hls/alqudstv/alqudstv.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1452908844284272645/JbdExxv4_400x400.jpg",عودة
 http://htvpalsat.mada.ps:8888/audeh/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://almadina.tv/wp-content/uploads/2021/07/logo-.png",المدينة
+https://streaming.zaytonatube.com:8081/AlMadinatv/almadina21/tracks-v1/index.fmp4.m3u8
+#EXTINF:0 tvg-logo="https://shababfm.ps/wp-content/uploads/2020/10/shabab-banner.png",شباب أف أم 
+https://htvint.mada.ps/shababfm/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4g4VNx7/quds-tv.png",نابلس " راديو مرح "
 http://htvmada.mada.ps:8888/nabluslive/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4g4VNx7/quds-tv.png",وطـــن
