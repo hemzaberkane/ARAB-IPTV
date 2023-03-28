@@ -872,3 +872,18 @@ https://livear.cgtn.com/1000a/prog_index.m3u8
 https://cdnlive3.presstv.ir/cdnlive/smil:ifilmarcdn.smil/chunklis.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="="",العالم
 https://live2.alalam.ir/live/Alalam_high/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="="https://www.manototv.com/static/media/logo.1fc0bcc6.png",Manoto TV
+https://edge-nuk2.manoto.click/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="="",OXIR TV
+https://hls.oxir.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="="",VOX 1
+https://hls.oxir.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="="",FARSI TV
+https://live.farsitv.us/live/stream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="="",Simaye Azadi TV
+https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="="",MBC Persia
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="="",AVA Series
+https://avaserieshls.wns.live/hls/stream.m3u8
+
