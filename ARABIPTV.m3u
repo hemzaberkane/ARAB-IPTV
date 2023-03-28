@@ -865,25 +865,3 @@ https://ythls.onrender.com/channel/UCdTyuXgmJkG_O8_75eqej-w.m3u8
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qMFKcBh/CGTN-arabic.png", CGTN ARA
 https://livear.cgtn.com/1000a/prog_index.m3u8
-
-#EXTINF:-1 tvg-logo="",إيـــران
-0.0.0.0
-#EXTINF:-1 tvg-id="" tvg-logo="="https://ar.ifilmtv.ir/img/final-logo01.png", إيران فيلم
-https://cdnlive3.presstv.ir/cdnlive/smil:ifilmarcdn.smil/chunklis.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="="",العالم
-https://live2.alalam.ir/live/Alalam_high/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="="https://www.manototv.com/static/media/logo.1fc0bcc6.png",Manoto TV
-https://edge-nuk2.manoto.click/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="="",OXIR TV
-https://hls.oxir.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="="",VOX 1
-https://hls.oxir.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="="https://farsitv.us/wp-content/uploads/2022/05/Logo-WP-1024x236.webp",FARSI TV
-https://live.farsitv.us/live/stream/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="="https://iranntv.com/img/logo.png",Simaye Azadi TV
-https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="="",MBC Persia
-https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="="",AVA Series
-https://avaserieshls.wns.live/hls/stream.m3u8
-
