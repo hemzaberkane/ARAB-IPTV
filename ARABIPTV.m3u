@@ -878,9 +878,9 @@ https://edge-nuk2.manoto.click/live.m3u8
 https://hls.oxir.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="="",VOX 1
 https://hls.oxir.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="="",FARSI TV
+#EXTINF:-1 tvg-id="" tvg-logo="="https://farsitv.us/wp-content/uploads/2022/05/Logo-WP-1024x236.webp",FARSI TV
 https://live.farsitv.us/live/stream/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="="",Simaye Azadi TV
+#EXTINF:-1 tvg-id="" tvg-logo="="https://iranntv.com/img/logo.png",Simaye Azadi TV
 https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="="",MBC Persia
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
