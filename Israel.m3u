@@ -14,16 +14,9 @@ http://zyamka.akadatel.com/iptv/5FURQDGTX7MWKS/12236/index.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/il/channel12news.png",NEWS 12 
 
 #EXTINF:0 tvg-id="רשת [Reshet HD]" tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg" ,Reshet 13
-https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg",RESHET 13 רשת
-https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg",RESHET 13 רשת
-https://d198ztbnlup2iq.cloudfront.net/out/v1/2d9050c90fb94df8b78d1d98306a1a65/index.m3u8
-
+https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
 #EXTINF:0 tvg-id="ערוץ 14 [Channel 14 (Channel 20) HD]" tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png" ,NOW 14
 https://ch14-channel14.akamaized.net/hls/live/2097589/CH14_CHANNEL14/master.m3u8
-#EXTINF:0 tvg-id="4296" tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png" ,NOW 14
-http://zyamka.akadatel.com/iptv/5FURQDGTX7MWKS/12261/index.m3u8
 #EXTINF:0 tvg-id="I24 ARABIC" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/il/i24news.png" ,i24 arabic
 https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/playlist-all.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/il/i24news.png" ,i24 English
@@ -34,7 +27,6 @@ https://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/53
 https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/video_7201280_p_1.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/jzRyjBn/walla.png",WALLA NEWS TV
 https://amg01742-walla-wallanews-ono-2eohr.amagi.tv/playlist.m3u8
-
 #EXTINF:0 tvg-logo="https://i.ibb.co/zP5vjLD/knesset.png",HAKNESSET 99
 https://contactgbs.mmdlive.lldns.net/contactgbs/a40693c59c714fecbcba2cee6e5ab957/manifest.m3u8
 #EXTINF:0  tvg-id="Hala TV [HALA TV]" tvg-logo="https://i.ibb.co/MG43H4H/hala.png",PANET 30 HALA
@@ -43,34 +35,9 @@ https://live1.panet.co.il/edge_abr/halaTV/playlist.m3u8
 https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="9kanal-israel" tvg-logo="https://www.9tv.co.il/images/logo_ch9.png", 9 Channel Israel plus
 http://zyamka.akadatel.com/iptv/5FURQDGTX7MWKS/12238/index.m3u8
-
-#EXTINF:0 tvg-logo="" ,JL TV
-https://jlt2104.cdn.nextologies.com/ebaed9568f2b8e61/ffaaf4b7e1d0e7a8/playlist.m3u8
-
-
-
 #EXTINF:0 tvg-logo="https://i.ibb.co/kq4XM0Y/ynet.png" ,Y-NET NEWS
 https://ynet-live-01.ynet-pic1.yit.co.il/ynet/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/jzRyjBn/walla.png",WALLA NEWS
 https://live.wcdn.co.il/news/prog_index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/jzRyjBn/walla.png",WALLA NEWS
 https://live.wcdn.co.il/yes/prog_index.m3u8
-
-#EXTINF:0 tvg-logo="" ,One Sports
-http://zyamka.akadatel.com/iptv/5FURQDGTX7MWKS/12231/index.m3u8
-
-#EXTINF:0 tvg-logo="" ,Sport 1 Israel
-http://zyamka.akadatel.com/iptv/5FURQDGTX7MWKS/12249/index.m3u8
-#EXTINF:0 tvg-logo="" ,Sport 2 Israel
-http://zyamka.akadatel.com/iptv/5FURQDGTX7MWKS/12250/index.m3u8
-#EXTINF:0 tvg-logo="" ,Sport 4 Israel
-http://zyamka.akadatel.com/iptv/5FURQDGTX7MWKS/12252/index.m3u8
-#EXTINF:0 tvg-logo="" ,5 Sports
-http://zyamka.akadatel.com/iptv/5FURQDGTX7MWKS/12255/index.m3u8
-#EXTINF:0 tvg-logo="" ,5 Stars
-http://zyamka.akadatel.com/iptv/5FURQDGTX7MWKS/12256/index.m3u8
-
-
-
-http://clientsportals.com:2095/get.php?username=fqAEYSeq&password=azMUkNnz&type=m3u
-http://germanydnsx11.com:8080/get.php?username=bulentince&password=Xxii0Rch5p&type=m3u
