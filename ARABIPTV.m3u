@@ -694,7 +694,7 @@ https://live-server-2.splitstream.io/37823898-78bc-4e88-b14b-6eb04526e72d/index.
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.teleliban.com.lb/images/telelogo.png" ,تلفزيون لبنان
 https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/tl/mbs1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://otv.com.lb/wp-content/themes/otv/inc/assets/images/logo.svg" ,OTV
-
+http://62.182.82.104/OTV/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.almanar.com.lb/framework/assets/images/logo-tech.png" ,المنار
 https://manar.live/iptv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.almayadeen.tv/images/logo/new-logo-small.png" ,الميادين
