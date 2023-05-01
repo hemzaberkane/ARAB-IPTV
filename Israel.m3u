@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="https://github.com/dikodahan/share02/raw/main/src/DikoPlusEPG.xml.gz"
 #EXTINF:0 tvg-id="כאן 11 [Kan HD]" tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" ,Kan 11
 https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
+#EXTINF:0 tvg-id="כאן 11 [Kan HD]" tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" ,Kan 11
+https://kan11sub.media.kan.org.il/hls/live/2024678/2024678/master.m3u8
 #EXTINF:0 tvg-id="channel-11-il" tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" ,Kan 11
 http://zyamka.akadatel.com/iptv/5FURQDGTX7MWKS/12237/index.m3u8
 #EXTINF:0 tvg-id="מכאן [Makan]" tvg-logo="https://i.ibb.co/fqTYrGY/33.png" ,Makan 33
@@ -9,6 +11,8 @@ https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
 http://zyamka.akadatel.com/iptv/5FURQDGTX7MWKS/12225/index.m3u8
 #EXTINF:0 tvg-id="2711" tvg-logo="https://i.ibb.co/0cGcHCD/23.jpg" ,HINUCHIT 23
 https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
+#EXTINF:0 tvg-id="קשת [Keshet HD]" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/il/channel12.png",Keshet 12
+https://repe-depo.000webhostapp.com/kmk.php?m3u8
 #EXTINF:0 tvg-id="קשת [Keshet HD]" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/il/channel12.png",Keshet 12
 http://zyamka.akadatel.com/iptv/5FURQDGTX7MWKS/12236/index.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/il/channel12news.png",NEWS 12 
@@ -25,7 +29,7 @@ https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/53
 https://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/playlist-all.m3u8
 #EXTINF:0 tvg-id="4028" tvg-logo="https://i.ibb.co/7nYM8MK/arutz24tvtrp.png",MAKO 24
 https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/video_7201280_p_1.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/jzRyjBn/walla.png",WALLA NEWS TV
+#EXTINF:0 tvg-logo="https://i.ibb.co/jzRyjBn/walla.png",WALLA! +
 https://amg01742-walla-wallanews-ono-2eohr.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/zP5vjLD/knesset.png",HAKNESSET 99
 https://contactgbs.mmdlive.lldns.net/contactgbs/a40693c59c714fecbcba2cee6e5ab957/manifest.m3u8
