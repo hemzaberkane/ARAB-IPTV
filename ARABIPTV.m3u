@@ -531,6 +531,7 @@ http://live.watania1.tn:1935/live/watanya1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.watania2.tn/sites/default/files/main_logo_watania2_0.png" ,الوطنية 2
 http://live.watania2.tn:1935/live/watanya2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Nessma_El_Jadida_Logo.png/150px-Nessma_El_Jadida_Logo.png" ,Nessma Ejdida
+https://shls-live-ak.akamaized.net/out/v1/119ae95bbc91462093918a7c6ba11415/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.elhiwarettounsi.com/images/vod/logo.webp" ,الحوار التونسي
 
