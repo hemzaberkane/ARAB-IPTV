@@ -826,6 +826,17 @@ https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f4
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/4kids.png" ,4 Kids
 
+#EXTINF:-1 tvg-logo="",وثــائـــقـــي
+0.0.0.0
+#EXTINF:-1 tvg-logo=" " ,Nat Geo AbuDhabi
+
+#EXTINF:-1 tvg-logo=" " ,الشرق الوثائقية
+
+#EXTINF:-1 tvg-logo=" " ,الوثائقية
+
+#EXTINF:-1 tvg-logo=" " ,
+
+#EXTINF:-1 tvg-logo=" " ,
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Breaking.gif",أخبار
 0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/884RcMF/aljazera.png" ,AL JAZEERA الجزيرة الإخبارية
