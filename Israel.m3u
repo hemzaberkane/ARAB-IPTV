@@ -4,17 +4,17 @@ https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
 #EXTINF:0 tvg-id="כאן 11 [Kan HD]" tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" ,Kan 11
 https://kan11sub.media.kan.org.il/hls/live/2024678/2024678/master.m3u8
 #EXTINF:0 tvg-id="channel-11-il" tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" ,Kan 11
-http://zyamka.akadatel.com/iptv/5FURQDGTX7MWKS/12237/index.m3u8
+
 #EXTINF:0 tvg-id="מכאן [Makan]" tvg-logo="https://i.ibb.co/fqTYrGY/33.png" ,Makan 33
 https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
 #EXTINF:0 tvg-id="Makan33.il" tvg-logo="https://i.ibb.co/fqTYrGY/33.png" ,Makan 33
-http://zyamka.akadatel.com/iptv/5FURQDGTX7MWKS/12225/index.m3u8
+
 #EXTINF:0 tvg-id="2711" tvg-logo="https://i.ibb.co/0cGcHCD/23.jpg" ,HINUCHIT 23
 https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
 #EXTINF:0 tvg-id="קשת [Keshet HD]" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/il/channel12.png",Keshet 12
 https://repe-depo.000webhostapp.com/kmk.php?m3u8
 #EXTINF:0 tvg-id="קשת [Keshet HD]" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/il/channel12.png",Keshet 12
-http://zyamka.akadatel.com/iptv/5FURQDGTX7MWKS/12236/index.m3u8
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/il/channel12news.png",NEWS 12 
 
 #EXTINF:0 tvg-id="רשת [Reshet HD]" tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg" ,Reshet 13
