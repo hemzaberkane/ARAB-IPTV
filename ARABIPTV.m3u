@@ -831,7 +831,7 @@ https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976
 #EXTINF:-1 tvg-logo=" " ,Nat Geo AbuDhabi
 
 #EXTINF:-1 tvg-logo=" " ,الشرق الوثائقية
-
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo=" " ,الوثائقية
 
 #EXTINF:-1 tvg-logo=" " ,
@@ -862,7 +862,7 @@ https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabi
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fFyvbrC/skynewsar.png" ,SKY NEWS ARA سكاي نيوز عربية
 https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://almashhad.com/static/images/LogoBlue.svg" ,المشهد
-https://bcovlive-a.akamaihd.net/179f03ac9b434844b909d7f63b4da4d7/ap-south-1/6313884884001/profile_2/chunklist.m3u8
+https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/profile_1/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.almayadeen.tv/images/logo/new-logo-small.png" ,AL MAYADEEN الميادين
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/8d1Srb9/alalam.jpg" ,AL ALAM IR العالم الإيرانية
