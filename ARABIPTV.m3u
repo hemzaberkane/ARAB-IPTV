@@ -189,7 +189,7 @@ https://edge.taghtia.com/sa/6.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://aloula.faulio.com/storage/mediagallery/47/4f/small_64167a679b7b2b43aa0e9549a920b50dc01cd531.png" ,السعودية الآن 
 https://edge.taghtia.com/sa/17.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://aloula.faulio.com/storage/mediagallery/11/78/small_3b55efbef523c3a6d6e45d8c5a2d28b86bdf4117.png" ,الثقافية
-
+https://thaqafeyyah-ak.akamaized.net/out/v1/f6851f68ada94f82ae6b64a441eb5ab1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://aloula.faulio.com/storage/mediagallery/af/5f/small_283fe3d945c4efdc8fbced8185065ba6e5460760.png" ,السعودية الرياضية 1
 https://edge.taghtia.com/sa/9.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://aloula.faulio.com/storage/mediagallery/7b/e0/small_a1bad3d72059d5a1cd18151ca0692c74c0a42926.png" ,السعودية الرياضية 2
@@ -211,7 +211,7 @@ https://edge.taghtia.com/sa/15.m3u8
 #EXTINF:-1 tvg-id="MBC.ae" tvg-logo="https://www.mbc.net/dam/jcr:e5e1ffbc-89b8-4400-951e-624ded8eb350/invalid-name_12@3x.png" ,MBC 1
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
 #EXTINF:-1 tvg-id="MBC2.ae" tvg-logo="https://www.mbc.net/dam/jcr:58f8ac46-66be-4f50-9766-0c09920c086a/mbc-2.png" ,MBC 2
-https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
+
 #EXTINF:-1 tvg-id="MBC3.ae" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc3.jpg" ,MBC 3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
 #EXTINF:-1 tvg-id="MBC4.ae" tvg-logo="https://www.mbc.net/dam/jcr:0ec18b07-adff-4767-8e85-c46f6b188632/mbc4.png" ,MBC 4
@@ -219,9 +219,9 @@ https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/in
 #EXTINF:-1 tvg-id="MBC5.ae" tvg-logo="https://www.mbc.net/dam/jcr:fbef6d28-28d2-46b7-a37a-c49ede8eb341/mbc5.png" ,MBC 5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
 #EXTINF:-1 tvg-id="MBCAction.ae" tvg-logo="https://www.mbc.net/dam/jcr:3e5b2510-d3d1-4280-9aaf-b892547ba29c/mbc-action.png" ,MBC ACTION
-https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
+
 #EXTINF:-1 tvg-id="MBCMax.ae" tvg-logo="https://www.mbc.net/dam/jcr:72a76fe0-63d5-4eac-aced-77c641e3eb67/mbc-max.png" ,MBC MAX
-https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
+
 #EXTINF:-1 tvg-id="MBCDrama.ae" tvg-logo="https://www.mbc.net/dam/jcr:74d5c50e-e87a-4103-92ec-52860469aece/mbc-drama.png" ,MBC DRAMA
 https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
 #EXTINF:-1 tvg-id="MBCDramaPlus.ae" tvg-logo="https://www.mbc.net/dam/jcr:365a67ad-327e-4e2b-8ae4-ca80400af4f2/mbc-drama-plus.png" ,MBC DRAMA+
@@ -291,7 +291,7 @@ https://media2.streambrothers.com:1936/8122/8122/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Sudan.gif",السودان
 0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://sudantv.sd/ar/wp-content/themes/sudantv/images/logo.png" ,السودان
-https://castor.streamthatvideo.co:8081/sudantv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" ,السودان الإخبارية
 
 #EXTINF:-1 tvg-id="" tvg-logo="" ,السودان الثقافية
@@ -301,7 +301,7 @@ https://castor.streamthatvideo.co:8081/sudantv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://mahgoubsons.com/wp/wp-content/uploads/2017/10/BNTV_logo.png" ,قناة النيل الأزرق
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://sudania24tv.com/storage/2022/09/s24-logo.jpg" ,قناة سودانية 24 
-https://samson.streamerr.co:8081/sudania24/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://ashorooq.net.sd/wp-content/uploads/2021/09/logo.png" ,قناة الشروق
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.mah6at.net/wp-content/uploads/2022/04/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%A8%D9%84%D8%AF-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A%D8%A9.jpg" ,البلد 
