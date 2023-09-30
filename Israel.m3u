@@ -1,34 +1,26 @@
 #EXTM3U url-tvg="https://github.com/dikodahan/share02/raw/main/src/DikoPlusEPG.xml.gz"
 #EXTINF:0 tvg-id="כאן 11 [Kan HD]" tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" ,Kan 11
 https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
-#EXTINF:0 tvg-id="כאן 11 [Kan HD]" tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" ,Kan 11
-https://kan11sub.media.kan.org.il/hls/live/2024678/2024678/master.m3u8
-#EXTINF:0 tvg-id="channel-11-il" tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" ,Kan 11
-
-#EXTINF:0 tvg-id="מכאן [Makan]" tvg-logo="https://i.ibb.co/fqTYrGY/33.png" ,Makan 33
-https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
-#EXTINF:0 tvg-id="Makan33.il" tvg-logo="https://i.ibb.co/fqTYrGY/33.png" ,Makan 33
-
-#EXTINF:0 tvg-id="2711" tvg-logo="https://i.ibb.co/0cGcHCD/23.jpg" ,HINUCHIT 23
-https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
 #EXTINF:0 tvg-id="קשת [Keshet HD]" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/il/channel12.png",Keshet 12
 https://repe-depo.000webhostapp.com/kmk.php?m3u8
-#EXTINF:0 tvg-id="קשת [Keshet HD]" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/il/channel12.png",Keshet 12
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/il/channel12news.png",NEWS 12 
-
 #EXTINF:0 tvg-id="רשת [Reshet HD]" tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg" ,Reshet 13
 https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
 #EXTINF:0 tvg-id="ערוץ 14 [Channel 14 (Channel 20) HD]" tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png" ,NOW 14
 https://ch14-channel14.akamaized.net/hls/live/2097589/CH14_CHANNEL14/master.m3u8
+#EXTINF:0 tvg-id="2711" tvg-logo="https://i.ibb.co/0cGcHCD/23.jpg" ,HINUCHIT 23
+https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
+#EXTINF:0 tvg-id="4028" tvg-logo="https://i.ibb.co/7nYM8MK/arutz24tvtrp.png",MAKO 24
+https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/video_7201280_p_1.m3u8
+#EXTINF:0 tvg-id="מכאן [Makan]" tvg-logo="https://i.ibb.co/fqTYrGY/33.png" ,Makan 33
+https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/il/channel12news.png",NEWS 12 
+
 #EXTINF:0 tvg-id="I24 ARABIC" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/il/i24news.png" ,i24 arabic
 https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/playlist-all.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/il/i24news.png" ,i24 English
 
 #EXTINF:0  tvg-id="I24 HD FRA"  tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/il/i24news.png" ,i24 French
 https://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/playlist-all.m3u8
-#EXTINF:0 tvg-id="4028" tvg-logo="https://i.ibb.co/7nYM8MK/arutz24tvtrp.png",MAKO 24
-https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/video_7201280_p_1.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/jzRyjBn/walla.png",WALLA! +
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01742-walla-wallanews-ono/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/zP5vjLD/knesset.png",HAKNESSET 99
@@ -38,7 +30,7 @@ https://live1.panet.co.il/edge_abr/halaTV/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/MG43H4H/hala.png",PANET 30 HALA
 https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="9kanal-israel" tvg-logo="https://www.9tv.co.il/images/logo_ch9.png", 9 Channel Israel plus
-http://zyamka.akadatel.com/iptv/5FURQDGTX7MWKS/12238/index.m3u8
+
 #EXTINF:0 tvg-logo="https://i.ibb.co/kq4XM0Y/ynet.png" ,Y-NET NEWS
 https://ynet-live-01.ynet-pic1.yit.co.il/ynet/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/jzRyjBn/walla.png",WALLA NEWS
