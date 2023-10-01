@@ -6,7 +6,7 @@ https://repe-depo.000webhostapp.com/kmk.php?m3u8
 #EXTINF:0 tvg-id="רשת [Reshet HD]" tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg" ,Reshet 13
 https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
 #EXTINF:0 tvg-id="ערוץ 14 [Channel 14 (Channel 20) HD]" tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png" ,NOW 14
-https://ch14-channel14.akamaized.net/hls/live/2097589/CH14_CHANNEL14/master.m3u8
+https://ch14-channel14-content.akamaized.net/hls/live/2104807/CH14_CHANNEL14/master.m3u8
 #EXTINF:0 tvg-id="2711" tvg-logo="https://i.ibb.co/0cGcHCD/23.jpg" ,HINUCHIT 23
 https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
 #EXTINF:0 tvg-id="4028" tvg-logo="https://i.ibb.co/7nYM8MK/arutz24tvtrp.png",MAKO 24
