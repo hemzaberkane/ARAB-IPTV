@@ -838,8 +838,8 @@ https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo=" " ,الوثائقية
 
-#EXTINF:-1 tvg-logo=" " ,
-
+#EXTINF:-1 tvg-logo="https://asharqdiscovery.com/assets/images/asharq-discover-logo.svg" , الشرق Discovery
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/asharqd_720p_chunks_dvr.m3u8
 #EXTINF:-1 tvg-logo=" " ,
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Breaking.gif",أخبار
 0.0.0.0
