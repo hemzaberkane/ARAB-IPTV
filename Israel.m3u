@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="https://github.com/dikodahan/share02/raw/main/src/DikoPlusEPG.xml.gz"
 #EXTINF:0 tvg-id="כאן 11 [Kan HD]" tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" ,Kan 11
 https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
+#EXTINF:0 tvg-id="Keshet12" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/il/channel12.png",Keshet 12
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/keshetil/py/k12.m3u8
 #EXTINF:0 tvg-id="קשת [Keshet HD]" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/il/channel12.png",Keshet 12
 https://ideorpo.alwaysdata.net/kmb.php?m3u8
 #EXTINF:0 tvg-id="רשת [Reshet HD]" tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg" ,Reshet 13
