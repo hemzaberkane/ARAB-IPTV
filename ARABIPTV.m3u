@@ -741,15 +741,15 @@ https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976
 #EXTINF:-1 tvg-logo="",وثــائـــقـــي
 0.0.0.0
 #EXTINF:-1 tvg-logo=" " ,Nat Geo AbuDhabi
-
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " ,الشرق الوثائقية
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo=" " ,الوثائقية
 
 #EXTINF:-1 tvg-logo="https://asharqdiscovery.com/assets/images/asharq-discover-logo.svg" , الشرق Discovery
-https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/asharqd_720p_chunks_dvr.m3u8
-#EXTINF:-1 tvg-logo=" " ,
-
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo=" " ,الجزيرة الوثائقية 
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Breaking.gif",أخبار
 0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/884RcMF/aljazera.png" ,AL JAZEERA الجزيرة الإخبارية
