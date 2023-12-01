@@ -32,10 +32,16 @@ https://live1.panet.co.il/edge_abr/halaTV/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/MG43H4H/hala.png",PANET 30 HALA
 https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="9kanal-israel" tvg-logo="https://www.9tv.co.il/images/logo_ch9.png", 9 Channel Israel plus
-
-#EXTINF:0 tvg-logo="https://i.ibb.co/kq4XM0Y/ynet.png" ,Y-NET NEWS
-https://ynet-live-01.ynet-pic1.yit.co.il/ynet/live.m3u8
+https://contactgbs.mmdlive.lldns.net/contactgbs/dd4f5f04932345f1b47c4bfb45fbd682/manifest.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/jzRyjBn/walla.png",WALLA NEWS
 https://live.wcdn.co.il/news/prog_index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/jzRyjBn/walla.png",WALLA NEWS
 https://live.wcdn.co.il/yes/prog_index.m3u8
+EXTINF:0 tvg-logo="https://i.ibb.co/kq4XM0Y/ynet.png",YNET NEWS 1
+https://ynet-live-02.ynet-pic1.yit.co.il/ynet/live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/kq4XM0Y/ynet.png",YNET NEWS 3
+https://ynet-live-03.ynet-pic1.yit.co.il/ynet/live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/kq4XM0Y/ynet.png",YNET NEWS 4
+https://ynet-live-04.ynet-pic1.yit.co.il/ynet/live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/kq4XM0Y/ynet.png",YNET NEWS 5
+https://ynet-live-05.ynet-pic1.yit.co.il/ynet/live.m3u8
