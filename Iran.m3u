@@ -1,14 +1,42 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="irib1" tvg-logo="https://tv1.ir/img/tv1/1logo.png" ,شبكه 1
+#EXTINF:-1 tvg-id="irib1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/1200px-IRIBTV1.svg.png" ,شبكه 1
 https://s1.ettehadlive.com/live/39/chunklist.m3u8
-#EXTINF:-1 tvg-id="irib1" tvg-logo="https://tv1.ir/img/tv1/1logo.png" ,شبكه 1
+#EXTINF:-1 tvg-id="irib1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/1200px-IRIBTV1.svg.png" ,شبكه 1
 https://live.aionet.ir/hls/tv1/tv1.m3u8
-#EXTINF:-1 tvg-id="irib2" tvg-logo="https://www.tv2.ir/images/tv2/header-logo.png" ,شبكه 2
+#EXTINF:-1 tvg-id="irib2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/%D8%B4%D8%A8%DA%A9%D9%87_%D8%AF%D9%88_tv2.png" ,شبكه 2
 https://s1.ettehadlive.com/live/40/chunklist.m3u8
+#EXTINF:-1 tvg-id="irib2" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/3/36/%D8%B4%D8%A8%DA%A9%D9%87_%D8%AF%D9%88_tv2.png" ,شبكه 2
+https://live.aionet.ir/hls/tv2/tv2.m3u8
 #EXTINF:-1 tvg-id="irib3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/1200px-IRIB_TV3_LOGO.svg.png" ,شبكه 3
 https://s1.ettehadlive.com/live/114/chunklist.m3u8
+#EXTINF:-1 tvg-id="irib3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/1200px-IRIB_TV3_LOGO.svg.png" ,شبكه 3
+https://af.ayas.ir/hls2/tv3.m3u8
 #EXTINF:-1 tvg-id="irib4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_TV4_logo.svg/1200px-IRIB_TV4_logo.svg.png" ,شبكه 4
 https://s1.ettehadlive.com/live/41/chunklist.m3u8
+#EXTINF:-1 tvg-id="irib4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_TV4_logo.svg/1200px-IRIB_TV4_logo.svg.png" ,شبكه 4
+https://live.aionet.ir/hls/tv4/tv4.m3u8
+#EXTINF:-1 tvg-id="IRIB5.ir",IRIB5 
+https://live.aionet.ir/hls/tv5/tv5.m3u8
+#EXTINF:-1 tvg-id="AmouzeshTV.ir",IRIB Amouzesh 
+https://live.aionet.ir/hls/amoozesh/amoozesh.m3u8
+#EXTINF:-1 tvg-id="IRIBMostanad.ir",IRIB Mostanad
+https://live.aionet.ir/hls/mostanad/mostanad.m3u8
+#EXTINF:-1 tvg-id="NamayeshTV.ir",IRIB Namayesh 
+https://live.aionet.ir/hls/namayesh/namayesh.m3u8
+#EXTINF:-1 tvg-id="Nasim.ir",IRIB Nasim 
+https://live.aionet.ir/hls/nasim/nasim.m3u8
+#EXTINF:-1 tvg-id="",IRIB Pooya & Nahal 
+https://live.aionet.ir/hls/pooya/pooya.m3u8
+#EXTINF:-1 tvg-id="SalamatTV.ir",IRIB Salamat 
+https://live.aionet.ir/hls/salamat/salamat.m3u8
+#EXTINF:-1 tvg-id="Tamasha.ir",IRIB Tamasha 
+https://live.aionet.ir/hls/tamasha/tamasha.m3u8
+#EXTINF:-1 tvg-id="VarzeshTV.ir",IRIB Varzesh 
+https://live.aionet.ir/hls/varzesh/varzesh.m3u8
+#EXTINF:-1 tvg-id="IRINN.ir",IRINN 
+https://live.aionet.ir/hls/irinn/irinn.m3u8
+#EXTINF:-1 tvg-id="IRINN2.ir",IRINN 2 
+https://lb-cdn.sepehrtv.ir/securelive3/irinn2sd/irinn2sd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/IRINN_IRIB.png" ,شبكه خبر
 https://s1.ettehadlive.com/live/42/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://aramland.com/wp-content/uploads/2023/09/Screenshot_%D9%A2%D9%A0%D9%A2%D9%A3%D9%A0%D9%A9%D9%A0%D9%A5-%D9%A1%D9%A3%D9%A4%D9%A7%D9%A0%D9%A8_Firefox-1.jpg" ,الكوثر
