@@ -1,6 +1,8 @@
 #EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="irib1" tvg-logo="https://tv1.ir/img/tv1/1logo.png" ,شبكه 1
 https://s1.ettehadlive.com/live/39/chunklist.m3u8
+#EXTINF:-1 tvg-id="irib1" tvg-logo="https://tv1.ir/img/tv1/1logo.png" ,شبكه 1
+https://live.aionet.ir/hls/tv1/tv1.m3u8
 #EXTINF:-1 tvg-id="irib2" tvg-logo="https://www.tv2.ir/images/tv2/header-logo.png" ,شبكه 2
 https://s1.ettehadlive.com/live/40/chunklist.m3u8
 #EXTINF:-1 tvg-id="irib3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/1200px-IRIB_TV3_LOGO.svg.png" ,شبكه 3
