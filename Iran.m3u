@@ -1,0 +1,23 @@
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="irib1" tvg-logo="https://tv1.ir/img/tv1/1logo.png" ,شبكه 1
+https://s1.ettehadlive.com/live/39/chunklist.m3u8
+#EXTINF:-1 tvg-id="irib2" tvg-logo="https://www.tv2.ir/images/tv2/header-logo.png" ,شبكه 2
+https://s1.ettehadlive.com/live/40/chunklist.m3u8
+#EXTINF:-1 tvg-id="irib3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/1200px-IRIB_TV3_LOGO.svg.png" ,شبكه 3
+https://s1.ettehadlive.com/live/114/chunklist.m3u8
+#EXTINF:-1 tvg-id="irib4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_TV4_logo.svg/1200px-IRIB_TV4_logo.svg.png" ,شبكه 4
+https://s1.ettehadlive.com/live/41/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/IRINN_IRIB.png" ,شبكه خبر
+https://s1.ettehadlive.com/live/42/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://aramland.com/wp-content/uploads/2023/09/Screenshot_%D9%A2%D9%A0%D9%A2%D9%A3%D9%A0%D9%A9%D9%A0%D9%A5-%D9%A1%D9%A3%D9%A4%D9%A7%D9%A0%D9%A8_Firefox-1.jpg" ,الكوثر
+https://s1.ettehadlive.com/live/118/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://ar.ifilmtv.ir/img/colorize-logo-final.png" ,IFILM AR
+https://s1.ettehadlive.com/live/15/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://ar.ifilmtv.ir/img/colorize-logo-final.png" ,IFILM
+https://s1.ettehadlive.com/live/99/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://ar.ifilmtv.ir/img/colorize-logo-final.png" ,IFILM EN
+https://s1.ettehadlive.com/live/119/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.manototv.com/static/media/logo.1fc0bcc6.png" ,MANOTO
+https://edge-uk6.manoto.click/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Iran_International.svg/1200px-Iran_International.svg.png" ,ايران اينترنشنال
+https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
