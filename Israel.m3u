@@ -15,8 +15,6 @@ https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
 https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/video_7201280_p_1.m3u8
 #EXTINF:0 tvg-id="מכאן [Makan]" tvg-logo="https://i.ibb.co/fqTYrGY/33.png" ,Makan 33
 https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/il/channel12news.png",NEWS 12 
-
 #EXTINF:0 tvg-id="I24 ARABIC" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/il/i24news.png" ,i24 arabic
 https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/playlist-all.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/il/i24news.png" ,i24 English
@@ -31,5 +29,5 @@ https://contactgbs.mmdlive.lldns.net/contactgbs/a40693c59c714fecbcba2cee6e5ab957
 https://live1.panet.co.il/edge_abr/halaTV/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/MG43H4H/hala.png",PANET 30 HALA
 https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
-#EXTINF:-1 tvg-id="9kanal-israel" tvg-logo="https://www.9tv.co.il/images/logo_ch9.png", 9 Channel Israel plus
+#EXTINF:-1 tvg-id="9kanal-israel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Arutz_9_logo.png", 9 Channel Israel plus
 https://contactgbs.mmdlive.lldns.net/contactgbs/dd4f5f04932345f1b47c4bfb45fbd682/manifest.m3u8
