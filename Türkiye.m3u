@@ -42,3 +42,15 @@ https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 https://foxtv.blutv.com/blutv_foxtv_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-name="TV 8" tvg-id="TV8.tr" tvg-logo="https://img.tv8.com.tr/s/template/v2/img/tv8-logo.png",TV 8
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+#EXTINF:-1 tvg-logo="https://www.haberturk.com/images/common/logo/svg/haberturk-logo.svg",HABER TÜRK
+https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
+#EXTINF:-1 tvg-logo="https://s.haberglobal.com.tr/assets/web/images/hg_logo.svg",HABER GLOBAL
+https://haberglobal.blutv.com/blutv_haberglobal2/live.m3u8
+#EXTINF:-1 tvg-logo="https://s.tv100.com/assets/web/images/logo.svg",TV 100 Haber
+https://tv100-live.daioncdn.net/tv100/tv100.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.ntv.com.tr/img/logo.svg",NTV Hber
+http://canli.haber365.com.tr/tr/ntv/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.yirmidort.tv/assets/header/logoWhite.png",24 TV Haber
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
+#EXTINF:-1 tvg-logo="https://iahbr.tmgrup.com.tr/site/v2/i/ahaber-logo-2.png",A HABER
+https://raw.githubusercontent.com/rideordie16/YouTube/main/haber/ahaber.m3u8
