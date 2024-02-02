@@ -118,7 +118,7 @@ https://bozztv.com/inim03/live1/giniko_canalalgerie/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/elbarlamaniya.png", EPTV 9 El Barlamaniya البرلمانية
 
 #EXTINF:-1 tvg-id="EchoroukTV.dz" tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/echorouk.png", Echorouk  الشروق 
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dzflix/echorouktv.m3u8
+
 #EXTINF:-1 tvg-id="EchoroukTV.dz" tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/echorouk.png", Echorouk  الشروق 
 https://echorouk-live-tv.dzsecurity.net/echo/EchoroukTV/playlist.m3u8|Referer=https://echorouk.dzsecurity.net/embed/echorouk.php
 #EXTINF:-1 tvg-id="EchoroukTV.dz" tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/echorouk.png", Echorouk  الشروق 
@@ -132,7 +132,7 @@ https://echorouk-live-tv.dzsecurity.net/echo/EchoroukTV/chunks.m3u8|Referer=http
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/N1.png" ,El Djazair N1
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/echorouknews.png" ,Echorouk News الشروق الإخبارية
-https://bledflix-echorouk-news.b-cdn.net/master.m3u8
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/echorouknews.png" ,Echorouk News الشروق الإخبارية
 https://echorouk-live-tv.dzsecurity.net/echo/EchoroukNews/chunks.m3u8|Referer=https://echorouk.dzsecurity.net/embed/echorouk.php
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ennahar.png" ,Ennahar News النهار 
@@ -152,7 +152,7 @@ https://ennahar-live.dzsecurity.net/fullres/EnnaharTV_First/chunks.m3u8|Referer=
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/elheddaf.png",HTV الهدّاف
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/Samira.png"  ,Samira TV سميرة 
-https://d2p6676ajpsg1j.cloudfront.net/out/v1/2daff8b433344d659bd5079224afc3ab/index.m3u8
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/zahra.png" ,Zahra TV زهرة
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/Elanis.png" ,EL Aniss الأنيس
