@@ -187,7 +187,7 @@ https://edge.taghtia.com/sa/10.m3u8
 https://edge.taghtia.com/sa/16.m3u8
 #EXTINF:-1 tvg-id="KSASports4.sa" tvg-logo="https://aloula.faulio.com/storage/mediagallery/1e/47/small_a4446176a6ae3f240cedf1bd07d782dfe32a76cf.png",السعودية الرياضية 4
 https://edge.taghtia.com/sa/17.m3u8
-#EXTINF:-1 tvg-id="MBC.us" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_1_0bf58055e9.svg" ,MBC 1
+#EXTINF:-1 tvg-id="MBC1" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_1_0bf58055e9.svg" ,MBC 1
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
 #EXTINF:-1 tvg-id="MBC 2" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_2_5ae3f15729.svg" ,MBC 2
 ..
@@ -307,7 +307,7 @@ http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/logo-new1.png" ,دجلة
 http://91.134.145.75:10001/Dijlah/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://utviraq.net/wp-content/uploads/2020/12/logo-icon.png" ,UTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://utviraq.net/wp-content/uploads/2020/12/logo-icon.png" ,UTV Iraq
 https://mn-nl.mncdn.com/utviraqi2/64c80359/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.alrasheedmedia.com/wp-content/uploads/2023/02/alrasheedmedia-63ee5e20b5985.png" , الرشيد
 https://media1.livaat.com/AL-RASHEED-HD/tracks-v1/index.m3u8
