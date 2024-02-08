@@ -35,13 +35,13 @@ https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChanne
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/5e4c03ef4b.png" ,ياس
 https://vo-live.cdb.cdn.orange.com/Content/Channel/YASSportsChannel/HLS/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.dmi.gov.ae/content/dam/corporate/icons/DubaiTV.png" ,دبي
+#EXTINF:-1 tvg-id="Dubai.il" tvg-logo="https://www.dmi.gov.ae/content/dam/corporate/icons/DubaiTV.png" ,دبي
 https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.dmi.gov.ae/content/dam/corporate/icons/Sama.png" ,سما دبي
 https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.dmi.gov.ae/content/dam/corporate/icons/Dubai-zaman.png" ,دبي زمان
 https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.dmi.gov.ae/content/dam/corporate/icons/Dubaione-Logo-DMI.png" ,دبي وان
+#EXTINF:-1 tvg-id="DubaiOne.ae" tvg-logo="https://www.dmi.gov.ae/content/dam/corporate/icons/Dubaione-Logo-DMI.png" ,دبي وان
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.dmi.gov.ae/content/dam/corporate/icons/NoorDubai.png" ,نور دبي
 https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
