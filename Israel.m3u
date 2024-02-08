@@ -5,15 +5,15 @@ https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
 https://ideorpo.alwaysdata.net/kmb.php?m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1rSGfFw/N12n.png" user-agent="SmartOs Tv",NEWS 12 חדשות 
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/keshetil/py/n12.m3u8
-#EXTINF:0 tvg-id="רשת [Reshet HD]" tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg" ,Reshet 13
+#EXTINF:0 tvg-id="Channel13.il" tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg" ,Reshet 13
 https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
-#EXTINF:0 tvg-id="ערוץ 14 [Channel 14 (Channel 20) HD]" tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png" ,NOW 14
+#EXTINF:0 tvg-id="Channel14.il" tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png" ,NOW 14
 https://ch14-channel14-content.akamaized.net/hls/live/2104807/CH14_CHANNEL14/master.m3u8
-#EXTINF:0 tvg-id="2711" tvg-logo="https://i.ibb.co/0cGcHCD/23.jpg" ,HINUCHIT 23
+#EXTINF:0 tvg-id="Channel23.il" tvg-logo="https://i.ibb.co/0cGcHCD/23.jpg" ,HINUCHIT 23
 https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
-#EXTINF:0 tvg-id="4028" tvg-logo="https://i.ibb.co/7nYM8MK/arutz24tvtrp.png",MAKO 24
+#EXTINF:0 tvg-id="Music24.il" tvg-logo="https://i.ibb.co/7nYM8MK/arutz24tvtrp.png",MAKO 24
 https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/video_7201280_p_1.m3u8
-#EXTINF:0 tvg-id="מכאן [Makan]" tvg-logo="https://i.ibb.co/fqTYrGY/33.png" ,Makan 33
+#EXTINF:0 tvg-id="ChannelMikan.il" tvg-logo="https://i.ibb.co/fqTYrGY/33.png" ,Makan 33
 https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
 #EXTINF:0 tvg-id="I24 ARABIC" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/il/i24news.png" ,i24 arabic
 https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/playlist-all.m3u8
@@ -25,9 +25,9 @@ https://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/53
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01742-walla-wallanews-ono/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/zP5vjLD/knesset.png",HAKNESSET 99
 https://contactgbs.mmdlive.lldns.net/contactgbs/a40693c59c714fecbcba2cee6e5ab957/manifest.m3u8
-#EXTINF:0  tvg-id="Hala TV [HALA TV]" tvg-logo="https://i.ibb.co/MG43H4H/hala.png",PANET 30 HALA
+#EXTINF:0  tvg-id="HalaTV.il" tvg-logo="https://i.ibb.co/MG43H4H/hala.png",PANET 30 HALA
 https://live1.panet.co.il/edge_abr/halaTV/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/MG43H4H/hala.png",PANET 30 HALA
 https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
-#EXTINF:-1 tvg-id="9kanal-israel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Arutz_9_logo.png", 9 Channel Israel plus
+#EXTINF:-1 tvg-id="Channel9.il" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Arutz_9_logo.png", 9 Channel Israel plus
 https://contactgbs.mmdlive.lldns.net/contactgbs/dd4f5f04932345f1b47c4bfb45fbd682/manifest.m3u8
