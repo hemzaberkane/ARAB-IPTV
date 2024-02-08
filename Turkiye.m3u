@@ -3,13 +3,13 @@
 https://d1u68oyra9spme.cloudfront.net/master_4.m3u8
 #EXTINF:-1 tvg-name="TRT 2" tvg-id="TRT2.tr" tvg-logo="https://www.trt2.com.tr/images/logo.svg",TRT 2
 https://trt2.blutv.com/blutv_trt2/live.m3u8
-#EXTINF:-1 tvg-name="TRT SPOR" tvg-id="TRTSpor.tr" tvg-logo="https://www.trtspor.com.tr/static/img/trtspor-logo-2022.png" ,TRT SPOR
+#EXTINF:-1 tvg-name="TRT SPOR" tvg-id="TRT3.tr" tvg-logo="https://www.trtspor.com.tr/static/img/trtspor-logo-2022.png" ,TRT SPOR
 https://bozztv.com/inim03/live1/trtspor3/playlist.m3u8
-#EXTINF:-1 tvg-name="TRT BELGESEL" tvg-id="TRTBelgesel.tr" tvg-logo="https://www.trtbelgesel.com.tr/images/logo.svg" ,TRT BELGESEL
+#EXTINF:-1 tvg-name="TRT BELGESEL" tvg-id="TRTBelgeselHD.tr" tvg-logo="https://www.trtbelgesel.com.tr/images/logo.svg" ,TRT BELGESEL
 http://tv-trtbelgesel.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="TRT AVAZ" tvg-id="TRTAvaz.tr" tvg-logo="https://www.trtavaz.com.tr/Content/img/trt-avaz-logo.png" ,TRT AVAZ
+#EXTINF:-1 tvg-name="TRT AVAZ" tvg-id="TRTAVAZ.tr" tvg-logo="https://www.trtavaz.com.tr/Content/img/trt-avaz-logo.png" ,TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="TRT HABER" tvg-id="TRTHaber.tr" tvg-logo="https://trthaberstatic.cdn.wp.trt.com.tr/static/images/logo.svg",TRT HABER
+#EXTINF:-1 tvg-name="TRT HABER" tvg-id="TRTHaberHD.tr" tvg-logo="https://trthaberstatic.cdn.wp.trt.com.tr/static/images/logo.svg",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT Muzik" tvg-id="TRTMuzik.tr" tvg-logo="https://i.ibb.co/4gbPpzC/trt-muzik.png",TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
@@ -21,7 +21,7 @@ https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTKurdi.tr" tvg-logo="https://trtkurdi.com.tr/public/logo/d60ab555-f948-464a-a139-df5410d2a7b5/kurdi_logo.png" ,TRT Kurdî
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTArabi.tr" tvg-logo="https://cdn-s.pr.trt.com.tr/trtarabi/images/logo.svg" ,TRT ARABIC
+#EXTINF:-1 tvg-id="TRTAlArabiya.tr" tvg-logo="https://cdn-s.pr.trt.com.tr/trtarabi/images/logo.svg" ,TRT ARABIC
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="https://www.trtworld.com/trt-logo.svg" ,TRT WORLD
 https://tv-trtworld.live.trt.com.tr/master.m3u8
@@ -33,7 +33,7 @@ https://gineu10.bozztv.com/gin-36bay4/gt-kanald-2/index.m3u8
 http://hw1.jemtv.com/app/ATVHD/playlist.m3u8
 #EXTINF:-1 tvg-name="ATV" tvg-id="ATV.tr" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/i/atv-logo.png" ,ATV
 http://gineu8.bozztv.com/gin-trn09/gin-atvv/index.m3u8
-#EXTINF:-1 tvg-name="STAR TV" tvg-id="StarTV.tr" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png",Star TV
+#EXTINF:-1 tvg-name="STAR TV" tvg-id="Start.tr" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png",Star TV
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:-1 tvg-name="SHOW TV" tvg-id="ShowTV.tr" tvg-logo="https://www.showtv.com.tr/assets/v4/images/common/logo/svg/show-tv-logo.svg" ,SHOW TV
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
