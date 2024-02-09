@@ -1,4 +1,4 @@
-#EXTM3U url-tvg=""
+#EXTM3U url-tvg="https://raw.githubusercontent.com/rideordie16/t/main/bin/guide.xml"
 #EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.tr" tvg-logo="https://www.trt1.com.tr/public/logo/d60ab555-f948-464a-a139-df5410d2a7b5/TRT-1-Yeni-40px.png" ,TRT 1
 https://d1u68oyra9spme.cloudfront.net/master_4.m3u8
 #EXTINF:-1 tvg-name="TRT 2" tvg-id="TRT2.tr" tvg-logo="https://www.trt2.com.tr/images/logo.svg",TRT 2
@@ -33,7 +33,7 @@ https://gineu10.bozztv.com/gin-36bay4/gt-kanald-2/index.m3u8
 http://hw1.jemtv.com/app/ATVHD/playlist.m3u8
 #EXTINF:-1 tvg-name="ATV" tvg-id="ATV.tr" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/i/atv-logo.png" ,ATV
 http://gineu8.bozztv.com/gin-trn09/gin-atvv/index.m3u8
-#EXTINF:-1 tvg-name="STAR TV" tvg-id="Start.tr" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png",Star TV
+#EXTINF:-1 tvg-name="STAR TV" tvg-id="StarTV.tr" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png",Star TV
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:-1 tvg-name="SHOW TV" tvg-id="ShowTV.tr" tvg-logo="https://www.showtv.com.tr/assets/v4/images/common/logo/svg/show-tv-logo.svg" ,SHOW TV
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
