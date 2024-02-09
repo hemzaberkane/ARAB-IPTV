@@ -34,8 +34,8 @@ https://live.aionet.ir/hls/salamat/salamat.m3u8
 #EXTINF:-1 tvg-id="Tamasha.ir",IRIB Tamasha 
 https://live.aionet.ir/hls/tamasha/tamasha.m3u8
 #EXTINF:-1 tvg-id="VarzeshTV.ir",IRIB Varzesh 
-
-#EXTINF:-1 tvg-id="IRINN.ir",IRINN 
+https://live.aionet.ir/hls/varzesh/varzesh.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/IRINN_IRIB.png" ,IRINN 
 https://live.aionet.ir/hls/irinn/irinn.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/IRINN_IRIB.png" ,شبكه خبر
 https://s1.ettehadlive.com/live/42/chunklist.m3u8
