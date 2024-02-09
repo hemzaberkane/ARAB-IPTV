@@ -317,9 +317,7 @@ https://stream.afaqtv.iq/live/channel/afaqtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://alahad.iq/img/logo.png" ,العهد
 http://148.66.130.171:1935/Alahadlive/AlahadTV/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://alrabiaa.faulio.com/storage/mediagallery/0c/c5/fullhd_d8d18b714df2265bcb61d11ebb9ca0175511aa7f.png" ,الرّابعة
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://alrabiaa.faulio.com/storage/mediagallery/89/e6/small_339459b245351e2cf3a4f8fe3a00927ab1d56a80.png" ,الرّابعة
-
+https://206222.global.ssl.fastly.net/65045e4aba85cfe0025e4a60/live_c6c4040053cd11ee95b47153d2861736/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.alfallujah.tv/sites/all/themes/progressive/progressive_sub/logo.png" ,الفلوجة
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.i-news.tv/wp-content/uploads/2020/11/new-white-logo-1.png" ,i news 
@@ -351,7 +349,7 @@ https://6476e46b58f91.streamlock.net/music/livestream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.avaentertainment.net/img/logos/logo-white.png" ,AVA TV
 https://cdn3.wowza.com/1/OWNQVXVWc0dQclJz/RXJPdHJx/hls/tmcmjh3v/2728/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.rudaw.net/images/logo.svg" ,RUDAW TV
-https://svs.itworkscdn.net/rudawlive/rudawlive.smil/rudawtv_chunks.m3u8
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Www.24.krd.png/1200px-Www.24.krd.png" ,K24
 https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.speda.net/images/2020/01/speda.png" ,SPEDA TV
@@ -467,7 +465,7 @@ https://new.cache-stream.workers.dev/stream/UCdvWVsmQBROkgcGzVep73oA/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.watania2.tn/sites/default/files/main_logo_watania2_0.png" ,الوطنية 2
 https://new.cache-stream.workers.dev/stream/UCJW9gatYczI191TunQxMGbA/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Nessma_El_Jadida_Logo.png/150px-Nessma_El_Jadida_Logo.png" ,Nessma Ejdida
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dzflix/nessma.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.elhiwarettounsi.com/images/vod/logo.webp" ,الحوار التونسي
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://m.attessia.tv/uploads/logo3d.png" ,التاسعة
@@ -513,10 +511,10 @@ http://vod.ortas.sy:1935/oLive/sedu05042022/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/souryana_logo.png" ,Souryana سوريانا
 http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.sama-tv.net/assets/images/sama-top.png" ,Sama  ســما
-https://stream.sama-tv.net/hls/samatv_high/index.m3u8
+https://app.sama-tv.net/hls/samatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://l-television.com/LTV/wp-content/uploads/2021/07/LTV-final-logo-150x150.png" ,Lana لـــنـــا
-https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/m3u8/SDI1-720p.m3u8.vod.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://halabtodaytv.net/wp-content/uploads/2021/01/logo-%D9%85%D9%88%D9%82%D8%B9.png" ,حلب اليوم
+https://p-ltv.akamaized.net/ltv/ltv_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://halabtodaytv.net/wp-content/uploads/2022/10/50.png" ,حلب اليوم
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.syria.tv/themes/custom/syriatv_revamp/logo.png" ,تلفزيون سوريا
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv/chunks.m3u8
@@ -540,8 +538,9 @@ https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Flag_of_Palestine.gif",فـــلسطــين
 0.0.0.0
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/www.pbc.ps/wp-content/uploads/2021/08/pbc_logo_w256.png" ,فلسطين
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/www.pbc.ps/wp-content/uploads/2021/08/pbc_logo_w256.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" ,فلسطين
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://pbc.furrera.ps/palestinelivehd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/www.pbc.ps/wp-content/uploads/2021/09/%D9%82%D9%86%D8%A7%D8%A9-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1.webp" ,فلسطين مباشر
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/www.pbc.ps/wp-content/uploads/2021/09/%D8%B5%D9%88%D8%AA-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86.webp" ,صوت فلسطين
