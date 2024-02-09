@@ -3,26 +3,18 @@
 https://s1.ettehadlive.com/live/39/chunklist.m3u8
 #EXTINF:-1 tvg-id="irib1" tvg-logo="https://tv1.ir/img/tv1/1logo.png" ,شبكه 1
 https://live.aionet.ir/hls/tv1/tv1.m3u8
-#EXTINF:-1 tvg-id="irib1" tvg-logo="https://tv1.ir/img/tv1/1logo.png" ,شبكه 1
-https://ncdn.telewebion.com/tv1/live/playlist.m3u8
 #EXTINF:-1 tvg-id="irib2" tvg-logo="https://tv2.ir/images/tv2/header-logo.png" ,شبكه 2
 https://s1.ettehadlive.com/live/40/chunklist.m3u8
 #EXTINF:-1 tvg-id="irib2" tvg-logo="https://tv2.ir/images/tv2/header-logo.png" ,شبكه 2
 https://live.aionet.ir/hls/tv2/tv2.m3u8
-#EXTINF:-1 tvg-id="irib2" tvg-logo="https://tv2.ir/images/tv2/header-logo.png" ,شبكه 2
-https://ncdn.telewebion.com/tv2/live/playlist.m3u8
 #EXTINF:-1 tvg-id="irib3" tvg-logo="https://tv3.ir/assets/img/TV3-pink.png" ,شبكه 3
 https://s1.ettehadlive.com/live/114/chunklist.m3u8
 #EXTINF:-1 tvg-id="irib3" tvg-logo="https://tv3.ir/assets/img/TV3-pink.png" ,شبكه 3
 https://af.ayas.ir/hls2/tv3.m3u8
-#EXTINF:-1 tvg-id="irib3" tvg-logo="https://tv3.ir/assets/img/TV3-pink.png" ,شبكه 3
-https://ncdn.telewebion.com/tv3/live/playlist.m3u8
 #EXTINF:-1 tvg-id="irib4" tvg-logo="https://s3-cdn.sepehrtv.ir/img/channel/logo/4-min.png" ,شبكه 4
 https://s1.ettehadlive.com/live/41/chunklist.m3u8
 #EXTINF:-1 tvg-id="irib4" tvg-logo="https://s3-cdn.sepehrtv.ir/img/channel/logo/4-min.png" ,شبكه 4
 https://live.aionet.ir/hls/tv4/tv4.m3u8
-#EXTINF:-1 tvg-id="irib4" tvg-logo="https://s3-cdn.sepehrtv.ir/img/channel/logo/4-min.png" ,شبكه 4
-https://ncdn.telewebion.com/tv4/live/playlist.m3u8
 #EXTINF:-1 tvg-id="IRIB5.ir",IRIB5 
 https://live.aionet.ir/hls/tv5/tv5.m3u8
 #EXTINF:-1 tvg-id="IRIB5.ir",IRIB5 
@@ -42,7 +34,7 @@ https://live.aionet.ir/hls/salamat/salamat.m3u8
 #EXTINF:-1 tvg-id="Tamasha.ir",IRIB Tamasha 
 https://live.aionet.ir/hls/tamasha/tamasha.m3u8
 #EXTINF:-1 tvg-id="VarzeshTV.ir",IRIB Varzesh 
-https://ncdn.telewebion.com/varzesh/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="IRINN.ir",IRINN 
 https://live.aionet.ir/hls/irinn/irinn.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/IRINN_IRIB.png" ,شبكه خبر
