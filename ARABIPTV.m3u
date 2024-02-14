@@ -373,23 +373,23 @@ http://ishtar.cdncast.xyz:1935/live/iShtarHD/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Kuwait-animated.gif",الـــــكويت
 0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/28/Ktv_1.png" ,الكويت 1
-
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/kuw/kuw.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/kw/ktv2.png" ,الكويت 2
-
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/kuw/kuw2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/kw/ktvsport.png" ,الكويت الرياضية
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,الكويت دراما
-
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/kuw/kuwspo.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://media0033.elcinema.com/tvguide/1370_1.png" ,الكويت دراما
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/kuw/kuwkha.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/kw/ethraa.png" ,إثراء
-
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/kuw/kuweth.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" ,الكويت العربي
-
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/kuw/kuwara.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/kw/alqurain.png" ,الكويت القرين
-
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/kuw/kuwplu.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/kw/ktvsport2.png" ,Kuwait Sport +
-
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/kuw/kuwspp.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/05/AlMajlis-1-200x150.png" ,المجلس
-
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/kuw/kuwspe.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.alraimedia.com/theme_alraimedia/images/logo.svg" ,الراي
 https://svs.itworkscdn.net/itwlive/itw.smil/itw_chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/kw/scopetv.png" ,Scoop Tv
