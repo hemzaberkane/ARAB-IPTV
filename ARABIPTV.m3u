@@ -732,7 +732,7 @@ https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Majid_2020.png" ,ماجد
 https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/693px-Cartoon_Network_Arabic_logo.png" ,Cartoon Network Arabia
+#EXTINF:-1 tvg-id="CartoonNetworkArabic.qa" tvg-logo="https://cncdn.dmti.cloud/4870486cf3ad9290b4ace5cd2b81d931eac1aefe/static/media/cn-logo-short.1e292202.svg" ,Cartoon Network Arabia
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv.taghtia.com/assets/channels/atfal-wa-mawahib.png" ,Atfal wa mawaheb
 https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8
