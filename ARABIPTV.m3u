@@ -264,6 +264,10 @@ https://cdg8.edge.technocdn.com/daawahtv/live/chunks.m3u8
 https://iqraa-live.ercdn.net/iqraa/iqraa.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://makkahtv.tv/assets/images/makkah-channel-redcolor-1440-alpha-570x716.png" ,مــكّة
 https://media2.streambrothers.com:1936/8122/8122/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://huda.tv/wp-content/uploads/2021/01/cropped-logo_200-150x150.webp" ,Huda TV English
+https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.ssad.tv/uploads/ssadtv.logo_.intro_.e.gif" ,صاد
+https://www.enterweb.tv:25463/live/ssadtv/live-tv/1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Sudan.gif",السودان
 0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://sudantv.sd/ar/wp-content/themes/sudantv/images/logo.png" ,السودان
