@@ -38,8 +38,7 @@ https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:-1 tvg-name="SHOW TV" tvg-id="ShowTV.tr" tvg-logo="https://www.showtv.com.tr/assets/v4/images/common/logo/svg/show-tv-logo.svg" ,SHOW TV
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-name="FOX" tvg-id="Fox.tr" tvg-logo="https://tpsbayxekmes.merlincdn.net//img/logos/logo.svg",NOW 
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://foxtv.blutv.com/blutv_foxtv_live/live_720p2000000kbps/index.m3u8
+https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 #EXTINF:-1 tvg-name="TV 8" tvg-id="TV8.tr" tvg-logo="https://img.tv8.com.tr/s/template/v2/img/tv8-logo.png",TV 8
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.haberturk.com/images/common/logo/svg/haberturk-logo.svg",HABER TÜRK
