@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://github.com/dikodahan/share02/raw/main/src/DikoPlusEPG.xml.gz"
 #EXTINF:0 tvg-id="כאן 11 [Kan HD]" tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" ,Kan 11
-https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
+https://kan11w.media.kan.org.il/hls/live/2105694/2105694/master.m3u8
 #EXTINF:0 tvg-id="קשת [Keshet HD]" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/il/channel12.png",Keshet 12
 https://ideorpo.alwaysdata.net/kmb.php?m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1rSGfFw/N12n.png" user-agent="SmartOs Tv",NEWS 12 חדשות 
@@ -27,7 +27,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01742-walla-wallanews-ono/playlist.
 https://contactgbs.mmdlive.lldns.net/contactgbs/a40693c59c714fecbcba2cee6e5ab957/manifest.m3u8
 #EXTINF:0  tvg-id="HalaTV.il" tvg-logo="https://i.ibb.co/MG43H4H/hala.png",PANET 30 HALA
 https://live1.panet.co.il/edge_abr/halaTV/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/MG43H4H/hala.png",PANET 30 HALA
-https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Channel9.il" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Arutz_9_logo.png", 9 Channel Israel plus
 https://contactgbs.mmdlive.lldns.net/contactgbs/dd4f5f04932345f1b47c4bfb45fbd682/manifest.m3u8
