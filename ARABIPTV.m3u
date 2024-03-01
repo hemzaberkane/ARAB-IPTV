@@ -302,6 +302,8 @@ https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
 https://5d94523502c2d.streamlock.net/home/mystream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.alsharqiya.com/Content/web-assets/img/logo.png" ,الشرقية الإخبارية
 https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://alawla.tv/templates/Default/images/logo.png" , الأولــــى
+https://63b03f7689049.streamlock.net/live/_definst_/1tv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.alsumaria.tv/uploadImages/ProgramsImages/Channels-L-1-636916940695846700.png" ,السومرية
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/logo-new1.png" ,دجلة
