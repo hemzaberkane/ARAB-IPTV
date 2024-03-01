@@ -7,6 +7,8 @@ https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://backend.roya.tv/imagechanger/Size01Q40R927/images/channels/Uk6vfv1EzBGFuku.png" ,رؤيـــا
 https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://royanews.tv/images/site/logo.png" , رؤيا الإخبارية
+https://roya-live.ercdn.net/royanews/royanews.m3u8?st=u9iNY6eic2Iyiv14hzg2dA&e=1709329513
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.almamlakatv.com/css/frontcss/images/logo.png" ,المملكة
 https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ammantv.net/images/logo.svg" ,عـــمّــــان
