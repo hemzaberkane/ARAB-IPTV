@@ -792,7 +792,7 @@ https://live2.alalam.ir/alalam.m3u8
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/5KW5f2K/france24ar.png" , فرنسا 24
 https://new.cache-stream.workers.dev/stream/UCdTyuXgmJkG_O8_75eqej-w/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GQbQGkG/trt-ar.jpg" ,TRT العربية
+#EXTINF:-1 tvg-id="TRTAlArabiya.tr" tvg-logo="https://i.ibb.co/GQbQGkG/trt-ar.jpg" ,TRT العربية
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qMFKcBh/CGTN-arabic.png", CGTN العربية
 https://livear.cgtn.com/1000a/prog_index.m3u8
