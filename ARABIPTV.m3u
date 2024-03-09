@@ -635,11 +635,11 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtiwaxdzdfggbnlive/broadcast_5d1b
 #EXTINF:-1 tvg-id="" tvg-logo="https://almasartv.ly/wp-content/uploads/2022/01/logo.png" ,المسار
 https://master.starmena-cloud.com/hls/almasar.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/b1S25fP/libya-ahrar.png" ,ليبيا الأحرار
-https://video.zidivo.com:9392/live983/GrtjM_FNGC/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/svdWnwb/libyach.webp" ,قناة ليبيا
 https://master.starmena-cloud.com/hls/libyas.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/p1khXv7/wtv.png" ,الوسط 
-https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/alwasattv/alwasat_720p/chunks.m3u8
+https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/token=p=54~e=1710015599~h=4d6552f8e6867aba71bd314856e6926e/alwasattv/alwasat_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/YLrrhGK/febrayer.png" ,فبراير
 https://b01c02nl.mediatriple.net/videoonlylive/mtfknklgwrlive/broadcast_5dc818c793576.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/X5222cT/jamahiria.png" ,الجماهيرية
