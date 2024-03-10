@@ -15,6 +15,8 @@ https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
 https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/video_7201280_p_1.m3u8
 #EXTINF:0 tvg-id="Channel33.il" tvg-logo="https://i.ibb.co/fqTYrGY/33.png" ,Makan 33
 https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
+#EXTINF:0 tvg-id="Channel33.il" tvg-logo="https://i.ibb.co/fqTYrGY/33.png" ,Makan 33
+https://cdnapisec.kaltura.com/p/2717431/sp/2717431/playManifest/entryId/1_vw6qllis/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
 #EXTINF:0 tvg-id="I24 ARABIC" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/il/i24news.png" ,i24 arabic
 https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/playlist-all.m3u8
 #EXTINF:0 tvg-id="i24News.en.nws" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/il/i24news.png" ,i24 English
