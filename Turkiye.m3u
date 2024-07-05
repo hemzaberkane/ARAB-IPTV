@@ -3,7 +3,7 @@
 https://d1u68oyra9spme.cloudfront.net/master.m3u8
 #EXTINF:-1  tvg-id="TRT2.tr" tvg-logo="https://www.trt2.com.tr/images/logo.svg",TRT 2
 https://trt2.blutv.com/blutv_trt2/live.m3u8
-#EXTINF:-1  tvg-id="TRT3.tr" tvg-logo="https://www.trtspor.com.tr/static/img/trtspor-logo-2022.png" ,TRT SPOR
+#EXTINF:-1  tvg-id="TRT3.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trtspor/w170/h26/q75/19964450.png" ,TRT SPOR
 https://bozztv.com/inim03/live1/trtspor3/playlist.m3u8
 #EXTINF:-1 tvg-id="TRTBelgeselHD.tr" tvg-logo="https://www.trtbelgesel.com.tr/images/logo.svg" ,TRT BELGESEL
 http://tv-trtbelgesel.live.trt.com.tr/master.m3u8
