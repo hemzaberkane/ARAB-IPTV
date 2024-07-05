@@ -1,10 +1,10 @@
 #EXTM3U url-tvg="https://github.com/dikodahan/share02/raw/main/src/DikoPlusEPG.xml.gz"
 #EXTINF:0 tvg-id="כאן 11 [Kan HD]" tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" ,Kan 11
 https://kan11w.media.kan.org.il/hls/live/2105694/2105694/master.m3u8
-#EXTINF:0 tvg-id="קשת [Keshet HD]" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/il/channel12.png",Keshet 12
-https://pwultrp.alwaysdata.net/kccsub.php?m3u8
 #EXTINF:0 tvg-id="קשת [Keshet HD]" tvg-logo="https://i.ibb.co/1rSGfFw/N12n.png" user-agent="SmartOs Tv",NEWS 12 חדשות 
 https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12/profile/4/profileManifest.m3u8?_uid=a004f873-f654-4ab8-a86c-4aa2bbfc909d&rK=a1
+#EXTINF:0 tvg-id="קשת [Keshet HD]" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/il/channel12.png",Keshet 12
+https://pwultrp.alwaysdata.net/kccsub.php?m3u8
 #EXTINF:0 tvg-id="Channel13.il" tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg" ,Reshet 13
 https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8
 #EXTINF:0 tvg-id="Channel14.il" tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png" ,NOW 14
@@ -13,7 +13,7 @@ https://ch14-channel14-content.akamaized.net/hls/live/2104807/CH14_CHANNEL14/mas
 https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
 #EXTINF:0 tvg-id="Music24.il" tvg-logo="https://i.ibb.co/7nYM8MK/arutz24tvtrp.png",MAKO 24
 https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/video_10801920_p_1.m3u8
-#EXTINF:0 tvg-id="Channel33.il" tvg-logo="https://i.ibb.co/fqTYrGY/33.png" ,Makan 33
+#EXTINF:0 tvg-id="ChannelMikan.il" tvg-logo="https://i.ibb.co/fqTYrGY/33.png" ,Makan 33
 https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5MyMYqB/relevantil.png",RELEVANT רלוונט 
 https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/06e44cd7f7e0445fbd669f279c997fd4/index.mpd
@@ -27,7 +27,7 @@ https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/53
 https://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/playlist-all.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/jzRyjBn/walla.png",WALLA! +
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01742-walla-wallanews-ono/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/zP5vjLD/knesset.png",HAKNESSET 99
+#EXTINF:0 tvg-id="TheKnessetChannel.il" tvg-logo="https://i.ibb.co/zP5vjLD/knesset.png",HAKNESSET 99
 https://contactgbs.mmdlive.lldns.net/contactgbs/a40693c59c714fecbcba2cee6e5ab957/manifest.m3u8
 #EXTINF:0  tvg-id="HalaTV.il" tvg-logo="https://i.ibb.co/MG43H4H/hala.png",PANET 30 HALA
 https://live1.panet.co.il/edge_abr/halaTV/playlist.m3u8
