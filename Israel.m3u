@@ -9,11 +9,11 @@ https://pwultrp.alwaysdata.net/kccsub.php?m3u8
 https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8
 #EXTINF:0 tvg-id="Channel14.il" tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png" ,NOW 14
 https://ch14-channel14-content.akamaized.net/hls/live/2104807/CH14_CHANNEL14/master.m3u8
-#EXTINF:0 tvg-id="Channel23.il" tvg-logo="https://i.ibb.co/0cGcHCD/23.jpg" ,HINUCHIT 23
+#EXTINF:0 tvg-id="Channel23.il" tvg-logo="https://i.ibb.co/0cGcHCD/23.jpg" ,Hinuchit 23
 https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
 #EXTINF:0 tvg-id="Music24.il" tvg-logo="https://i.ibb.co/7nYM8MK/arutz24tvtrp.png",MAKO 24
 https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/video_10801920_p_1.m3u8
-#EXTINF:0 tvg-id="ChannelMikan.il" tvg-logo="https://i.ibb.co/fqTYrGY/33.png" ,Makan 33
+#EXTINF:0 tvg-id="Channel33.il" tvg-logo="https://i.ibb.co/fqTYrGY/33.png" ,Makan 33
 https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5MyMYqB/relevantil.png",RELEVANT רלוונט 
 https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/06e44cd7f7e0445fbd669f279c997fd4/index.mpd
