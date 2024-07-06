@@ -6,7 +6,7 @@ https://trt2.blutv.com/blutv_trt2/live.m3u8
 #EXTINF:-1  tvg-id="TRT3.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trtspor/w170/h26/q75/19964450.png" ,TRT SPOR
 https://bozztv.com/inim03/live1/trtspor3/playlist.m3u8
 #EXTINF:-1 tvg-id="TRTBelgeselHD.tr" tvg-logo="https://www.trtbelgesel.com.tr/images/logo.svg" ,TRT BELGESEL
-http://tv-trtbelgesel.live.trt.com.tr/master.m3u8
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1  tvg-id="TRTAVAZ.tr" tvg-logo="https://www.trtavaz.com.tr/Content/img/trt-avaz-logo.png" ,TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTHaberHD.tr" tvg-logo="https://trthaberstatic.cdn.wp.trt.com.tr/static/images/logo.svg",TRT HABER
@@ -22,24 +22,20 @@ https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTKurdi.tr" tvg-logo="https://trtkurdi.com.tr/public/logo/d60ab555-f948-464a-a139-df5410d2a7b5/kurdi_logo.png" ,TRT Kurdî
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTAlArabiya.tr" tvg-logo="https://cdn-s.pr.trt.com.tr/trtarabi/images/logo.svg" ,TRT ARABIC
-https://tv-trtarabi.live.trt.com.tr/master.m3u8
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="https://www.trtworld.com/trt-logo.svg" ,TRT WORLD
-https://tv-trtworld.live.trt.com.tr/master.m3u8
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/c/ca/Kanal_D_logo.svg/1885px-Kanal_D_logo.svg.png" ,KANAL D
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
-#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/c/ca/Kanal_D_logo.svg/1885px-Kanal_D_logo.svg.png" ,KANAL D
-https://gineu10.bozztv.com/gin-36bay4/gt-kanald-2/index.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/i/atv-logo.png" ,ATV
 http://hw1.jemtv.com/app/ATVHD/playlist.m3u8
-#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/i/atv-logo.png" ,ATV
-http://gineu8.bozztv.com/gin-trn09/gin-atvv/index.m3u8
 #EXTINF:-1 tvg-id="Start.tr" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png",Star TV
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://www.showtv.com.tr/assets/v4/images/common/logo/svg/show-tv-logo.svg" ,SHOW TV
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-id="Fox.tr" tvg-logo="https://tpsbayxekmes.merlincdn.net//img/logos/logo.svg",NOW 
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
+https://nowtv.blutv.com/blutv_nowtv/live.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://img.tv8.com.tr/s/template/v2/img/tv8-logo.png",TV 8
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTINF:-1 tvg-id="HABERTURK.tr" tvg-logo="https://www.haberturk.com/images/common/logo/svg/haberturk-logo.svg",HABER TÜRK
