@@ -2,9 +2,9 @@
 #EXTINF:0 tvg-id="כאן 11 [Kan HD]" tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" ,Kan 11
 https://kan11w.media.kan.org.il/hls/live/2105694/2105694/master.m3u8
 #EXTINF:0 tvg-id="קשת [Keshet HD]" tvg-logo="https://i.ibb.co/1rSGfFw/N12n.png" user-agent="SmartOs Tv",NEWS 12 חדשות 
-https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12/profile/4/profileManifest.m3u8?_uid=a004f873-f654-4ab8-a86c-4aa2bbfc909d&rK=a1
+
 #EXTINF:0 tvg-id="קשת [Keshet HD]" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/il/channel12.png",Keshet 12
-https://pwultrp.alwaysdata.net/kccsub.php?m3u8
+https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12/profile/4/profileManifest.m3u8?_uid=a004f873-f654-4ab8-a86c-4aa2bbfc909d&rK=a1
 #EXTINF:0 tvg-id="Channel13.il" tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg" ,Reshet 13
 https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8
 #EXTINF:0 tvg-id="Channel14.il" tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png" ,NOW 14
