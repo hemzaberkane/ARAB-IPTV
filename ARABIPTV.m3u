@@ -223,7 +223,7 @@ https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398
 #EXTINF:-1 tvg-id="RotanaDrama.sa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Rotana_Drama_New_Logo.png" ,روتانا دراما
 https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index.m3u8
 #EXTINF:-1 tvg-id="RotanaCinema.il" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Rotana_Cinema_KSA.png" ,روتانا سينما
-https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
+https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Rotana_Cinema_KSA.png" ,روتانا سينما مصر
 https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
 #EXTINF:-1 tvg-id="RotanaClassic.sa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Rotana_Classic_New_Logo.png" ,روتانا كلاسيك
@@ -305,8 +305,8 @@ https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://utviraq.net/wp-content/uploads/2020/12/logo-icon.png" ,UTV Iraq
 https://mn-nl.mncdn.com/utviraqi2/64c80359/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.iq-hosting.com/images/kb/51_Logo-Dark.png" , الرشيد
-https://media1.livaat.com/AL-RASHEED-HD/tracks-v1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://alrafidain.tv/wp-content/uploads/2022/04/%D9%84%D9%88%D8%BA%D9%88-%D8%A8%D8%AF%D9%88%D9%86-%D9%84%D8%A7%D9%86%D9%86%D8%A7-%D8%AD%D8%B6%D8%A7%D8%B1%D8%A9-1.png" ,الرافدين
+https://media1.livaat.com/static/AL-RASHEED-HD/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://alrafidain.tv/wp-content/uploads/2024/05/New-Project-6.png" ,الرافدين
 https://arrafidain.tvplayer.online/arrafidaintv/source2/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://alghadeertv.iq/wp-content/uploads/2021/03/Broadcast_v3.png" , الغدير
 https://sd343444.vodu.store:3356/live/Alghadeer/tracks-v1a1/mono.m3u8
@@ -578,7 +578,7 @@ https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://otv.com.lb/wp-content/themes/otv/inc/assets/images/logo.svg" ,OTV
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.almanar.com.lb/framework/assets/images/logo-tech.png" ,المنار
-https://manar.live/iptv/playlist.m3u8
+https://edge.fastpublish.me/live/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.almayadeen.tv/images/logo/new-logo-small.png" ,الميادين
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/lb/nabaa.png" ,نبأ
@@ -682,9 +682,9 @@ https://github.com/MassinDV/Youtube-arabic-channels/raw/main/live/ch47.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/2k7Tmnf/barlem.jpg" ,البرلمانية
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://medina-tv.com/wp-content/uploads/2021/07/logo.png" ,المدينة
-https://www.twitch.tv/elmedina_network?tt_content=channel_name&tt_medium=embed
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://saharamedias.net/wp-content/uploads/2024/04/Sahara24Live-1-1.gif" ,صحراء 24
-https://live.saharamedias.net/sahara24tv/tracks-v1a1/mono.m3u8
+https://live.saharamedias.net/sahara24-live/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/This_was_4_of_Dafydd_Evans%27_children..gif",أطفال
 0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/sa/spacetoon.png" ,Space Toon FHD
