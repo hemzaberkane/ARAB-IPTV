@@ -1,22 +1,12 @@
 #EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="irib1" tvg-logo="https://tv1.ir/img/tv1/1logo.png" ,شبكه ۱
 https://s1.ettehadlive.com/live/39/chunklist.m3u8
-#EXTINF:-1 tvg-id="irib1" tvg-logo="https://tv1.ir/img/tv1/1logo.png" ,شبكه ۱
-https://live.aionet.ir/hls/tv1/tv1.m3u8
 #EXTINF:-1 tvg-id="irib2" tvg-logo="https://tv2.ir/images/tv2/header-logo.png" ,شبكه ۲
 https://s1.ettehadlive.com/live/40/chunklist.m3u8
-#EXTINF:-1 tvg-id="irib2" tvg-logo="https://tv2.ir/images/tv2/header-logo.png" ,شبكه ۲
-https://live.aionet.ir/hls/tv2/tv2.m3u8
 #EXTINF:-1 tvg-id="irib3" tvg-logo="https://tv3.ir/assets/img/TV3-pink.png" ,شبكه ۳
 https://s1.ettehadlive.com/live/114/chunklist.m3u8
-#EXTINF:-1 tvg-id="irib3" tvg-logo="https://tv3.ir/assets/img/TV3-pink.png" ,شبكه ۳
-https://af.ayas.ir/hls2/tv3.m3u8
 #EXTINF:-1 tvg-id="irib4" tvg-logo="https://s3-cdn.sepehrtv.ir/img/channel/logo/4-min.png" ,شبكه ٤
 https://s1.ettehadlive.com/live/41/chunklist.m3u8
-#EXTINF:-1 tvg-id="irib4" tvg-logo="https://s3-cdn.sepehrtv.ir/img/channel/logo/4-min.png" ,شبكه ٤
-https://live.aionet.ir/hls/tv4/tv4.m3u8
-#EXTINF:-1 tvg-id="IRIB5.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Tv5_New.png",شبكه ٥ 
-https://live.aionet.ir/hls/tv5/tv5.m3u8
 #EXTINF:-1 tvg-id="IRIB5.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Tv5_New.png",شبكه ٥ 
 https://ncdn.telewebion.com/tv5/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AmouzeshTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/IRIB_Amoozesh.svg/640px-IRIB_Amoozesh.svg.png",آموزش
