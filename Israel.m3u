@@ -33,9 +33,3 @@ https://contactgbs.mmdlive.lldns.net/contactgbs/a40693c59c714fecbcba2cee6e5ab957
 https://live1.panet.co.il/edge_abr/halaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel9.il" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Arutz_9_logo.png", 9 Channel Israel plus
 https://contactgbs.mmdlive.lldns.net/contactgbs/dd4f5f04932345f1b47c4bfb45fbd682/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sQd5XDT/13comedy.jpg",RESHET 13 COMEDY
-https://d15ds134q59udk.cloudfront.net/out/v1/fbba879221d045598540ee783b140fe2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tPh5D2w/13nofesh.jpg",RESHET 13 NOFESH
-https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9sX793L/13reality.jpg",RESHET 13 REALITY
-https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index.m3u8
