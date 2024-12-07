@@ -1,6 +1,8 @@
 #EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="irib1" tvg-logo="https://tv1.ir/img/tv1/1logo.png" ,شبكه ۱
 https://s1.ettehadlive.com/live/39/chunklist.m3u8
+#EXTINF:-1 tvg-id="irib1" tvg-logo="https://tv1.ir/img/tv1/1logo.png" ,شبكه ۱
+https://cdn-azd204f.telewebion.com/ek/tv1/live/1080p/index.m3u8
 #EXTINF:-1 tvg-id="irib2" tvg-logo="https://tv2.ir/images/tv2/header-logo.png" ,شبكه ۲
 https://s1.ettehadlive.com/live/40/chunklist.m3u8
 #EXTINF:-1 tvg-id="irib3" tvg-logo="https://tv3.ir/assets/img/TV3-pink.png" ,شبكه ۳
