@@ -21,23 +21,25 @@ https://6476e46b58f91.streamlock.net/music/livestream/chunklist.m3u8
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Www.24.krd.png/1200px-Www.24.krd.png" ,K24
 https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.speda.net/logo/speda.png" ,SPEDA TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.speda.net/logo/speda.png" ,SPEDA TV off
 http://speda.dwasat.com/upload/images/spedahd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.gksat.tv/wene/logo.png" ,GELI KURDISTAN TV
 https://live.bradosti.net/live/GaliKurdistan/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://afarin.tv/images/logo.png" ,AFARIN KIDS TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://afarin.tv/images/logo.png" ,AFARIN KIDS TV off
 https://5ab29cc78f681.streamlock.net/afarinTV/livestream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.peyam.net/wene/logo.png" ,PEYAM TV
-https://5ab29cc78f681.streamlock.net/PayamTV/livestream/chunklist.m3u8
+https://media2.streambrothers.com:1936/8218/8218/chunklist_w1034112696.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.knnc.net/wene/logo.png" ,KNN 
-https://iptv.kurdlive.xyz:8443/live/knn/knn/3.m3u8
+https://silicon.kurdlive.xyz/live/knnHD/chunklist_w1730674107.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://kirkuktv.net/wene/logo.png" ,KIRKUK TV
-https://5ab29cc78f681.streamlock.net/IHTV/livestream/chunklist.m3u8
+https://live.kirkuklive.live/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://jintv.net/img/logo.png" ,JIN TV
 https://live.jintv.org/medialive/jintv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvkomala.com/wp-content/uploads/2022/05/xlogotv.png.pagespeed.ic.Z2MXSpS5hA.webp" ,KOMALA TV
 https://live.tvkomala.com/live/komala/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.cihan.com/storage/sectors/December2019/jnUhqGH7Poovt1sjmomU.png" ,CIHAN TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cihan.com/storage/sectors/December2019/jnUhqGH7Poovt1sjmomU.png" ,CIHAN TV off
 http://cihan.dwasat.com/upload/images/cihanhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,ISHTAR TV
+#EXTINF:-1 tvg-id="" tvg-logo="" ,ISHTAR TV off
 http://ishtar.cdncast.xyz:1935/live/iShtarHD/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,Kurd TV
+https://kurd-channel.ikoflix.com/hls/stream_2.m3u8
