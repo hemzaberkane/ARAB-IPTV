@@ -39,7 +39,7 @@ https://live.jintv.org/medialive/jintv.m3u8
 https://live.tvkomala.com/live/komala/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cihan.com/storage/sectors/December2019/jnUhqGH7Poovt1sjmomU.png" ,CIHAN TV off
 http://cihan.dwasat.com/upload/images/cihanhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,ISHTAR TV off
+#EXTINF:-1 tvg-id="" tvg-logo="https://fr.wikipedia.org/wiki/Ishtar_TV#/media/Fichier:IshtarTVlogo.png" ,ISHTAR TV 
 http://ishtar.cdncast.xyz:1935/live/iShtarHD/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,Kurd TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://phoneky.co.uk/thumbs/android/thumbs/ico/3/s/kurd-channel-android.jpg" ,Kurd TV
 https://kurd-channel.ikoflix.com/hls/stream_2.m3u8
