@@ -26,8 +26,6 @@ https://live.aionet.ir/hls/tamasha/tamasha.m3u8
 #EXTINF:-1 tvg-id="VarzeshTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Varzeshtv.svg/800px-Varzeshtv.svg.png",ورزش
 https://live.aionet.ir/hls/varzesh/varzesh.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/IRINN_IRIB.png" ,خبر
-https://live.aionet.ir/hls/irinn/irinn.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/IRINN_IRIB.png" ,خبر
 https://s1.ettehadlive.com/live/42/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" ,الكوثر
 https://s1.ettehadlive.com/live/118/chunklist.m3u8
@@ -39,19 +37,19 @@ https://cdnlive.presstv.ir/ifilmlive/smil:ifilmen.smil/chunklis.m3u8
 https://cdnlive.presstv.ir/ifilmlive/smil:ifilmfa.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.iranintl.com/images/iitv/logo.svg" ,ايران اينترنشنال
 https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
-Hispan
+#EXTINF:-1 tvg-id="" tvg-logo="" ,Hispan
 https://s1.ettehadlive.com/live/105/chunklist.m3u8
-سحر اسنان
+#EXTINF:-1 tvg-id="" tvg-logo="" ,سحر افغانستان
 https://s1.ettehadlive.com/live/125/chunklist.m3u8
-سحر أرزو
+#EXTINF:-1 tvg-id="" tvg-logo="" ,سحر أرزو
 https://s1.ettehadlive.com/live/104/chunklist.m3u8
-سحر كوردي
+#EXTINF:-1 tvg-id="" tvg-logo="" ,سحر كوردي
 https://s1.ettehadlive.com/live/103/chunklist.m3u8
-سحر 
+#EXTINF:-1 tvg-id="" tvg-logo="" ,سحر 
 https://s1.ettehadlive.com/live/102/chunklist.m3u8
-سحر بلقان
+#EXTINF:-1 tvg-id="" tvg-logo="" ,سحر بلقان
 https://s1.ettehadlive.com/live/101/chunklist.m3u8
-جام جم
+#EXTINF:-1 tvg-id="" tvg-logo="https://jjtvn.ir/img/logo.png" ,جام جم
 https://s1.ettehadlive.com/live/100/chunklist.m3u8
-جام جام 2
+#EXTINF:-1 tvg-id="" tvg-logo="" ,جام جم 2
 https://s1.ettehadlive.com/live/116/chunklist.m3u8
