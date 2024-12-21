@@ -13,7 +13,7 @@ https://ch14-channel14-content.akamaized.net/hls/live/2104807/CH14_CHANNEL14/mas
 https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
 #EXTINF:0 tvg-id="Music24.il" tvg-logo="https://i.ibb.co/7nYM8MK/arutz24tvtrp.png",MAKO 24
 https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/video_10801920_p_1.m3u8
-#EXTINF:0 tvg-id="Channel33.il" tvg-logo="https://i.ibb.co/fqTYrGY/33.png" ,Makan 33
+#EXTINF:0 tvg-id="Channel33.il" tvg-logo="https://i.ibb.co/fqTYrGY/33.png" ,Channel 33	
 https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
 #EXTINF:0 tvg-id="I24 ARABIC" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/il/i24news.png" ,i24 arabic
 https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/playlist.m3u8
