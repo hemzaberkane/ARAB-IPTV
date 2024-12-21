@@ -30,13 +30,13 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/c/ca/Kanal_D_logo.svg/1885px-Kanal_D_logo.svg.png" ,KANAL D
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/i/atv-logo.png" ,ATV
-http://hw1.jemtv.com/app/ATVHD/playlist.m3u8
+https://tgn.bozztv.com/trn03/gt-atv-tv/index.m3u8
 #EXTINF:-1 tvg-id="Start.tr" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png",Star TV
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://www.showtv.com.tr/assets/v4/images/common/logo/svg/show-tv-logo.svg" ,SHOW TV
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-id="Fox.tr" tvg-logo="https://tpsbayxekmes.merlincdn.net//img/logos/logo.svg",NOW 
-http://hw1.jemtv.com/app/FoxTurkey/chunks.m3u8
+https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=0cs5v7G4xMUPgd1WzcSvOw&e=1734776927
 #EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://img.tv8.com.tr/s/template/v2/img/tv8-logo.png",TV 8
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTINF:-1 tvg-id="HABERTURK.tr" tvg-logo="https://www.haberturk.com/images/common/logo/svg/haberturk-logo.svg",HABER TÜRK
@@ -46,8 +46,10 @@ https://haberglobal.blutv.com/blutv_haberglobal2/live.m3u8
 #EXTINF:-1 tvg-id="Tv100.tr"  tvg-logo="https://s.tv100.com/assets/web/images/logo.svg",TV 100 Haber
 https://tv100-live.daioncdn.net/tv100/tv100.m3u8
 #EXTINF:-1 tvg-id="NTV.tr"  tvg-logo="https://cdn.ntv.com.tr/img/logo.svg",NTV Haber
-http://canli.haber365.com.tr/tr/ntv/index.m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/ntv.m3u8
 #EXTINF:-1 tvg-id=""  tvg-logo="https://www.yirmidort.tv/assets/header/logoWhite.png",24 TV Haber
 https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 #EXTINF:-1 tvg-id="AHaber.tr" tvg-logo="https://iahbr.tmgrup.com.tr/site/v2/i/ahaber-logo-2.png",A HABER
 https://raw.githubusercontent.com/rideordie16/YouTube/main/haber/ahaber.m3u8
+#EXTINF:-1 tvg-logo="https://v6s.cnnturk.com/images/header/cnnturk-new-logo.svg",CNN TÜRK
+https://tgn.bozztv.com/dvrfl05/gin-cnnturk/index.m3u8
