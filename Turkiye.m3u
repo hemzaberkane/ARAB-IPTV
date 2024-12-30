@@ -2,7 +2,7 @@
 #EXTINF:-1  tvg-id="TRT1.tr" tvg-logo="https://www.trt1.com.tr/public/logo/d60ab555-f948-464a-a139-df5410d2a7b5/TRT-1-Yeni-40px.png" ,TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1  tvg-id="TRT2.tr" tvg-logo="https://www.trt2.com.tr/images/logo.svg",TRT 2
-https://canlitvulusal.xyz/live/trt2/index.m3u8
+https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1  tvg-id="TRT3.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trtspor/w170/h26/q75/19964450.png" ,TRT SPOR
 https://bozztv.com/inim03/live1/trtspor3/playlist.m3u8
 #EXTINF:-1  tvg-id="TRTSPOR.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trtspor/w155/h14/q75/19955285_0-0-208-19.png" ,TRT SPOR YILDIZ
