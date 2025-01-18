@@ -30,11 +30,11 @@ https://s1.ettehadlive.com/live/42/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" ,الكوثر
 https://s1.ettehadlive.com/live/118/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://ar.ifilmtv.ir/img/colorize-logo-final.png" ,IFILM AR
-https://cdnlive.presstv.ir/ifilmlive/smil:ifilmar.smil/chunklist.m3u8
+https://live.presstv.ir/hls/ifilmar_4_482/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://ar.ifilmtv.ir/img/colorize-logo-final.png" ,IFILM English
-https://cdnlive.presstv.ir/ifilmlive/smil:ifilmen.smil/chunklis.m3u8
+https://live.presstv.ir/hls/ifilmen_4_482/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://ar.ifilmtv.ir/img/colorize-logo-final.png" ,IFILM Farsi
-https://cdnlive.presstv.ir/ifilmlive/smil:ifilmfa.smil/chunklist.m3u8
+https://live.presstv.ir/hls/ifilmfa_4_482/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.iranintl.com/images/iitv/logo.svg" ,ايران اينترنشنال
 https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" ,Hispan
@@ -53,3 +53,5 @@ https://s1.ettehadlive.com/live/101/chunklist.m3u8
 https://s1.ettehadlive.com/live/100/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" ,جام جم 2
 https://s1.ettehadlive.com/live/116/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,جام جم3
+https://s1.ettehadlive.com/live/117/chunklist.m3u8
