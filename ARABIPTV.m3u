@@ -169,7 +169,7 @@ https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/
 #EXTINF:-1 tvg-id="QuranTV.sa" tvg-logo="https://aloula.faulio.com/storage/mediagallery/d3/41/small_31890d483ad4fcf4b142406c9cfa1cb16ca0ddb6.png" ,القرآن الكريم
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
 #EXTINF:-1 tvg-id="SunnaTV.sa" tvg-logo="https://aloula.faulio.com/storage/mediagallery/33/92/small_879e557011826f507a045b4e0b4c3b57ba93edae.png" ,السنة النبوية
-https://shls-euronews-en-prod-dub.shahid.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8
+https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://aloula.faulio.com/storage/mediagallery/47/4f/small_64167a679b7b2b43aa0e9549a920b50dc01cd531.png" ,السعودية الآن 
 https://edge.taghtia.com/sa/17.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://aloula.faulio.com/storage/mediagallery/11/78/small_3b55efbef523c3a6d6e45d8c5a2d28b86bdf4117.png" ,الثقافية
@@ -308,10 +308,10 @@ https://mn-nl.mncdn.com/utviraqi2/64c80359/chunklist.m3u8
 https://media1.livaat.com/static/AL-RASHEED-HD/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://alrafidain.tv/wp-content/uploads/2024/05/New-Project-6.png" ,الرافدين
 https://arrafidain.tvplayer.online/arrafidaintv/source2/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://alghadeertv.iq/wp-content/uploads/2021/03/Broadcast_v3.png" , الغدير off
-https://sd343444.vodu.store:3356/live/Alghadeer/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://alghadeertv.iq/wp-content/uploads/2021/03/Broadcast_v3.png" , الغدير 
+https://s1.ettehadlive.com/live/2/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://afaq.iq/static/images/site/logo_afaq2.png" ,أفاق
-
+https://s1.ettehadlive.com/live/1/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://alahad.iq/img/logo.png" ,العهد
 https://148.66.130.171:1935/AlahadLiveStream/AlahadLiveStream_360p/chunklist_w1753655915.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://alrabiaa.faulio.com/storage/mediagallery/0c/c5/fullhd_d8d18b714df2265bcb61d11ebb9ca0175511aa7f.png" ,الرّابعة off
@@ -410,7 +410,7 @@ https://github.com/MassinDV/Youtube-arabic-channels/raw/main/live/ch45.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yemenshabab.net/images/logo.png" ,يمن شباب
 https://master.starmena-cloud.com/hls/yemenshabab.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.masirahtv.net/assets/images/logo.png" ,المسيرة
-https://live.cdnbridge.tv/Almasirah/Almasirah_all/Almasirah/Almasirah_720p/chunks.m3u8?nimblesessionid=29365959
+https://live.cdnbridge.tv/Almasirah/Almasirah_all/Almasirah/Almasirah_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://almahriah.net/images/logo.png" ,المهرية
 https://master.starmena-cloud.com/hls/almahriah.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.yementdy.tv/logo.png" ,اليمن اليوم
@@ -489,7 +489,6 @@ https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklis
 https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/om/alistiqama.png" ,الإستقامة
 https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Flag_of_Palestine.gif",فـــلسطــين
 0.0.0.0
 
@@ -510,7 +509,7 @@ https://s1.ettehadlive.com/live/68/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://tv.alfajertv.com/assets/images/logo.png" ,الفجر 2
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://arn.ps/assets/images/logo_23.svg" ,أجيال off
+#EXTINF:-1 tvg-id="" tvg-logo="https://arn.ps/assets/images/logo_23.svg" ,أجيال 
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.rajeen.tv/logo.png" ,راجعين
 https://mn-nl.mncdn.com/palabroad/live/chunklist.m3u8
@@ -529,7 +528,7 @@ http://live.alqudstoday.tv:8080/hls/alqudstv/alqudstv.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1452908844284272645/JbdExxv4_400x400.jpg",عودة off
 http://htvpalsat.mada.ps:8888/audeh/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://almadina.tv/wp-content/uploads/2021/07/logo-.png",المدينة off
-https://streaming.zaytonatube.com:8081/AlMadinatv/almadina21/tracks-a1/index.fmp4.m3u8
+https://streaming.zaytonatube.com:8081/AlMadinatv/almadina21/tracks-v1/index.fmp4.m3u8
 #EXTINF:0 tvg-logo="https://shababfm.ps/wp-content/uploads/2020/10/shabab-banner.png",شباب أف أم 
 https://htvint.mada.ps/shababfm/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4g4VNx7/quds-tv.png",نابلس " راديو مرح " off
@@ -590,7 +589,7 @@ https://master.starmena-cloud.com/hls/almasar.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/svdWnwb/libyach.webp" ,قناة ليبيا off
 https://master.starmena-cloud.com/hls/libyas.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/p1khXv7/wtv.png" ,الوسط 
-https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/token=p=54~e=1733593681~h=8512dbb6ffdd52fc4e635ac86a89ea1d/alwasattv/alwasat_1080p/chunks.m3u8
+https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/alwasattv/alwasat_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/YLrrhGK/febrayer.png" ,فبراير
 https://b01c02nl.mediatriple.net/videoonlylive/mtfknklgwrlive/broadcast_5dc818c793576.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/X5222cT/jamahiria.png" ,الجماهيرية
