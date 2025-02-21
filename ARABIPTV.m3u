@@ -454,21 +454,6 @@ https://streaming.toutech.net/live/jtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Animated-Flag-Syria-2.gif",سوريا
 0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/Local_logo.png" ,Al Mahliya المحلية off
-http://vod.ortas.sy:1935/oLive/aloula05042022/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/71/Syrian_TV_Logo.png" ,Essouriya السورية off
-http://vod.ortas.sy:1935/oLive/sat05042022/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a2/Syrian_News_Logo.png" ,El Ikhbariya الإخبارية off
-http://vod.alikhbaria.net:1935/oLive/snews05042022/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/3/3e/%D9%82%D9%86%D8%A7%D8%A9_%D8%B3%D9%88%D8%B1%D9%8A%D8%A9_%D8%AF%D8%B1%D8%A7%D9%85%D8%A7.png" ,Drama دراما off
-http://vod.ortas.sy:1935/oLive/drama05042022/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/nour_logo.png" ,Nour Eshham نور الشام off
-http://vod.ortas.sy:1935/oLive/nour05042022/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/sedu_logo.png" ,Ettarbawiya التربوية off
-http://vod.ortas.sy:1935/oLive/sedu05042022/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/souryana_logo.png" ,Souryana سوريانا off
-http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.sama-tv.net/assets/images/sama-top.png" ,Sama  ســما 
-https://app.sama-tv.net/hls/samatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://l-television.com/LTV/wp-content/uploads/2021/07/LTV-final-logo-150x150.png" ,Lana لـــنـــا
 https://p-ltv.akamaized.net/ltv/ltv_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://halabtodaytv.net/wp-content/uploads/2022/10/50.png" ,حلب اليوم
