@@ -453,13 +453,14 @@ https://streaming.toutech.net/live/jtv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Animated-Flag-Syria-2.gif",سوريا
 0.0.0.0
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/Local_logo.png" ,Al Mahliya المحلية off
 #EXTINF:-1 tvg-id="" tvg-logo="https://l-television.com/LTV/wp-content/uploads/2021/07/LTV-final-logo-150x150.png" ,Lana لـــنـــا
 https://p-ltv.akamaized.net/ltv/ltv_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://halabtodaytv.net/wp-content/uploads/2022/10/50.png" ,حلب اليوم
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.syria.tv/themes/custom/syriatv_revamp/logo.png" ,تلفزيون سوريا
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_720p/chunks_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.althania.tv/images/logo2.png" ,2 تلفزيون سوريا
+https://live.kwikmotion.com/syriatv02live/syriatv02.smil/syriatv02publish/syriatv02_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ronahi.tv/ar/wp-content/uploads/2019/05/logoronahi.png" ,روناهي 
 https://ronahi-tv.akamaized.net/hls/stream_0.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Animated-Flag-Oman.gif",عُــــمان
