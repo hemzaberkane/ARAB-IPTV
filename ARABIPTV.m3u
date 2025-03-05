@@ -350,13 +350,13 @@ https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist.m3u
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.alraimedia.com/theme_alraimedia/images/logo.svg" ,الراي
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/kw/scopetv.png" ,Scoop Tv
-https://ffs1.gulfsat.com/Al-Sabah-TV/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.atvkuwait.com/img/logo/atv_logo.png" ,العدالة
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/kw/funoon.png" ,فنون
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/kw/alsabah.png" ,الصباح
-
+https://ffs1.gulfsat.com/Al-Sabah-TV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/kw/alshahed.png" ,الشاهد
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.marinafm.com/images/Logo_MarinaFM.png" ,Marina FM TV
@@ -492,9 +492,9 @@ https://pbc.furrera.ps/musawahd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://seraj.tv/style/atyaf/assets/images/logo.png" ,الأقصى
 https://s1.ettehadlive.com/live/68/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://tv.alfajertv.com/assets/images/logo.png" ,الفجر 1
-
+http://platform.topuphost.com:8577/live/alfajr.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://tv.alfajertv.com/assets/images/logo.png" ,الفجر 2
-
+http://platform.topuphost.com:8577/live/alfajr2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://arn.ps/assets/images/logo_23.svg" ,أجيال 
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.rajeen.tv/logo.png" ,راجعين
@@ -508,16 +508,18 @@ https://htvmada.mada.ps:4443/maannews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://alqudstoday.tv/assets/logo/logo.png" ,القدس اليوم
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.falastini.tv/wp-content/uploads/2021/07/Logo-White-PNG-600.png" ,فلسطيني
-https://rp.tactivemedia.com/falastinitv/live/chunks.m3u8
+https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4g4VNx7/quds-tv.png",قدس off
 http://live.alqudstoday.tv:8080/hls/alqudstv/alqudstv.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1452908844284272645/JbdExxv4_400x400.jpg",عودة off
 http://htvpalsat.mada.ps:8888/audeh/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://almadina.tv/wp-content/uploads/2021/07/logo-.png",المدينة off
+#EXTINF:0 tvg-logo="https://almadina.tv/wp-content/uploads/2021/07/logo-.png",المدينة 
 https://streaming.zaytonatube.com:8081/AlMadinatv/almadina21/tracks-v1/index.fmp4.m3u8
 #EXTINF:0 tvg-logo="https://shababfm.ps/wp-content/uploads/2020/10/shabab-banner.png",شباب أف أم 
 https://htvint.mada.ps/shababfm/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/4g4VNx7/quds-tv.png",نابلس " راديو مرح " off
+#EXTINF:0 tvg-logo="https://www.rayatv.ps/images/logo_tv.png",Raya TV
+https://htvmada.mada.ps:4443/raya/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/4g4VNx7/quds-tv.png",نابلس " راديو مرح " 
 http://htvmada.mada.ps:8888/nabluslive/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4g4VNx7/quds-tv.png",وطـــن
 https://htvmada.mada.ps:4443/wattan/tracks-v1a1/mono.m3u8
