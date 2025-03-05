@@ -30,13 +30,13 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/c/ca/Kanal_D_logo.svg/1885px-Kanal_D_logo.svg.png" ,KANAL D
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/i/atv-logo.png" ,ATV
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 #EXTINF:-1 tvg-id="Start.tr" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png",Star TV
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://www.showtv.com.tr/assets/v4/images/common/logo/svg/show-tv-logo.svg" ,SHOW TV
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-id="Fox.tr" tvg-logo="https://tpsbayxekmes.merlincdn.net//img/logos/logo.svg",NOW 
-https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=xWUe8X9-AVzkoHilOM3ulA&e=1737724517
+https://nowtv-live-ad.ercdn.net/nowtv/nowtv.m3u8?e=1741252360&st=YHMsrL4AEacL3vI6gydEsw
 #EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://img.tv8.com.tr/s/template/v2/img/tv8-logo.png",TV 8
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTINF:-1 tvg-id="HABERTURK.tr" tvg-logo="https://www.haberturk.com/images/common/logo/svg/haberturk-logo.svg",HABER TÜRK
