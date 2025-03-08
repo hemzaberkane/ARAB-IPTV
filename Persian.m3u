@@ -31,6 +31,12 @@ https://hls.tamadon.live/hls/stream.m3u8
 https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/chunklist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://amu.tv/wp-content/uploads/2022/06/logo-op.png" , آمو ټلویزیون
 https://jmc-live.ercdn.net/amutv/amutv_720p.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dunya-e-naw-tv-af.png" ,Dunya-e-Naw TV
+https://dunyanhls.wns.live/hls/stream.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://chekad.tv/wp-content/uploads/2021/03/ORGINAL-LOGO-FOR-SITE-min2.png" ,تلویزیون چکاد
+https://go5lmqxjyawb-hls-live.5centscdn.com/Chekad/271ddf829afeece44d8732757fba1a66.sdp/chunks.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sharq-global-hd-af.png" ,شرقنیوز
+https://59nyqa5elwap-hls-live.5centscdn.com/Sharq/eec89088ee408b80387155272b113256.sdp/chunks.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://nourtv.net/wp-content/uploads/2021/01/unnamed.png" ,نور
 https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
 
