@@ -276,8 +276,10 @@ https://cdn-globecast.akamaized.net/live/eds/sudan_tv/hls_roku/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://ashorooq.net.sd/wp-content/uploads/2021/09/logo.png" ,قناة الشروق
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.mah6at.net/wp-content/uploads/2022/04/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%A8%D9%84%D8%AF-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A%D8%A9.jpg" ,البلد 
+#EXTINF:-1 tvg-id="" tvg-logo="" ,البلد 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.dabangasudan.org/wp-content/uploads/2022/12/dabanga-logo-x2.png" ,دبنقا
+https://hls.dabangasudan.org/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://palsawa.com/uploads/images/fmCVt.jpg" ,أم درمان
 
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/animation/2022/08/21/20/03/20-03-46-345_512.gif",الــــعــــراق
@@ -491,6 +493,8 @@ https://pbc.furrera.ps/palestinelivehd/index.m3u8
 https://pbc.furrera.ps/musawahd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://seraj.tv/style/atyaf/assets/images/logo.png" ,الأقصى
 https://s1.ettehadlive.com/live/68/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://seraj.tv/style/atyaf/assets/images/logo.png" ,الأقصى
+http://167.172.161.13/hls/feedspare/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://tv.alfajertv.com/assets/images/logo.png" ,الفجر 1
 http://platform.topuphost.com:8577/live/alfajr.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://tv.alfajertv.com/assets/images/logo.png" ,الفجر 2
