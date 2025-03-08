@@ -30,4 +30,4 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01742-walla-wallanews-ono/playlist.
 #EXTINF:0 tvg-id="TheKnessetChannel.il" tvg-logo="https://i.ibb.co/zP5vjLD/knesset.png",HAKNESSET 99
 https://kneset.gostreaming.tv/p2-kneset/_definst_/myStream/playlist.m3u8
 #EXTINF:0  tvg-id="HalaTV.il" tvg-logo="https://i.ibb.co/MG43H4H/hala.png",PANET 30 HALA
-https://live1.panet.co.il/edge_abr/halaTV/playlist.m3u8
+https://stream.panet.com/edge/halaTV/chunks.m3u8
