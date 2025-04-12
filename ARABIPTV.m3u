@@ -7,8 +7,8 @@ https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://backend.roya.tv/imagechanger/Size01Q40R927/images/channels/Uk6vfv1EzBGFuku.png" ,رؤيـــا
 https://royatv-live.daioncdn.net/royatv/royatv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://royanews.tv/images/site/logo.png" , رؤيا الإخبارية
-https://github.com/MassinDV/Youtube-arabic-channels/raw/main/live/ch39.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://royanews.tv/assets/images/logo.webp" , رؤيا الإخبارية
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.almamlakatv.com/css/frontcss/images/logo.png" ,المملكة
 https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://nuwubfmrtorg.merlincdn.net/amman-tv/assets/web/general/logo.png" ,عـــمّــــان
@@ -455,13 +455,15 @@ https://streaming.toutech.net/live/jtv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Animated-Flag-Syria-2.gif",سوريا
 0.0.0.0
+#EXTINF:-1 tvg-id="" tvg-logo="" ,الإخبارية السورية
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://ltv.l-television.com/static/media/LTV-logo_Approved04-1-1536x1411.d7ea77f48eb8047fe322.png" ,Lana لـــنـــا
 https://p-ltv.akamaized.net/ltv/ltv_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://halabtodaytv.net/wp-content/uploads/2022/10/50.png" ,حلب اليوم
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.syria.tv/themes/custom/syriatv_revamp/logo.png" ,تلفزيون سوريا
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_source/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.althania.tv/images/logo2.png" ,2 تلفزيون سوريا
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.althania.tv/images/logo2.png" ,الثانية
 https://live.kwikmotion.com/syriatv02live/syriatv02.smil/syriatv02publish/syriatv02_source/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ronahi.tv/ar/wp-content/uploads/2019/05/logoronahi.png" ,روناهي 
 https://ronahi-tv.akamaized.net/hls/stream_0.m3u8
@@ -555,10 +557,10 @@ http://5.9.119.146:8883/nbn/index.m3u8
 http://185.9.2.18/chid_391/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZB8x8TP/futlbn.png",FUTURE LBN
 https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.teleliban.com.lb/images/telelogo.png" ,تلفزيون لبنان
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.teleliban.com.lb/assets/img/telelogo.png" ,تلفزيون لبنان
 #EXTVLCOPT:http-referrer=https://www.teleliban.com.lb/live
 https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
-#EXTINF:-1 tvg-id="",صوت لبنان 
+#EXTINF:-1 tvg-id="https://www.vdl.me/wp-content/uploads/2020/11/54671-logo.jpg",صوت لبنان 
 https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://otv.com.lb/wp-content/themes/otv/inc/assets/images/logo.svg" ,OTV
 http://185.9.2.18/chid_312/index.m3u8
@@ -567,9 +569,9 @@ https://edge.fastpublish.me/live/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.almayadeen.tv/images/logo/new-logo-small.png" ,الميادين
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/lb/nabaa.png" ,نبأ
-https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8
+https://655ca86f46b1f.streamlock.net/live/Nabaa/chunklist_w1831890321.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.alittihad.tv/live/assets/images/logo_new.png" ,الإتحاد
-https://live.alittihad.tv:444/ittihad/chunklist.m3u8
+https://live.alittihad.tv:444/ittihad/chunklist_w873294720.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Animated-Flag-Libya.gif",لـيـــبـــيــا
 0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/vzZ6yvs/salam.png" group- ,سلام
