@@ -447,7 +447,7 @@ https://streaming.toutech.net/live/jtv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Animated-Flag-Syria-2.gif",سوريا
 0.0.0.0
-#EXTINF:-1 tvg-id="" tvg-logo="" ,الإخبارية السورية
+#EXTINF:-1 tvg-id="" tvg-logo="https://alikhbariah.com/wp-content/uploads/2025/04/logo.png" ,الإخبارية السورية
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ltv.l-television.com/static/media/LTV-logo_Approved04-1-1536x1411.d7ea77f48eb8047fe322.png" ,Lana لـــنـــا
 https://p-ltv.akamaized.net/ltv/ltv_1.m3u8
