@@ -602,7 +602,7 @@ https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.maspero.eg/images/live_channels_logos/1667483644.jpg" ,المصرية
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://media.elcinema.com/tvguide/1198_1.png" ,CBC
-
+https://bcovlive-a.akamaihd.net/0c223ac0a9d34b30b100cb92ee83b70a/us-west-2/6057955906001/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://media.elcinema.com/tvguide/1199_1.png" ,CBC DRAMA
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://media.elcinema.com/tvguide/1260_1.png" ,CBC SOFRA
@@ -614,7 +614,7 @@ https://bcovlive-a.akamaihd.net/3dc60bab470f4c9fbf00408ecb7c3d7a/eu-west-1/60579
 #EXTINF:-1 tvg-id="" tvg-logo="https://media.elcinema.com/tvguide/1134_1.png" ,ON DRAMA
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://dmc.com.eg/wp-content/themes/dmc/images/channels/dmc-hd.png" ,DMC
-
+https://bcovlive-a.akamaihd.net/ba3169004d40484b9ff29e194964c9e8/eu-west-1/6057955906001/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dmc.com.eg/wp-content/themes/dmc/images/dmc/dmc-drama.png" ,DMC DRAMA
 
 #EXTINF:-1 tvg-id="" tvg-logo="" ,EL HAYAT
