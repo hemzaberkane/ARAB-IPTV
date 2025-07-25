@@ -30,7 +30,7 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/c/ca/Kanal_D_logo.svg/1885px-Kanal_D_logo.svg.png" ,KANAL D
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/i/atv-logo.png" ,ATV
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+http://89.187.191.41/ATV-HD-TR/video.m3u8
 #EXTINF:-1 tvg-id="Start.tr" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png",Star TV
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://www.showtv.com.tr/assets/v4/images/common/logo/svg/show-tv-logo.svg" ,SHOW TV
