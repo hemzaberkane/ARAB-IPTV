@@ -8,7 +8,7 @@ https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://backend.roya.tv/imagechanger/Size01Q40R927/images/channels/Uk6vfv1EzBGFuku.png" ,رؤيـــا
 https://royatv-live.daioncdn.net/royatv/royatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://royanews.tv/assets/images/logo.webp" , رؤيا الإخبارية
-
+https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/extr/py/royanews.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.almamlakatv.com/css/frontcss/images/logo.png" ,المملكة
 https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://nuwubfmrtorg.merlincdn.net/amman-tv/assets/web/general/logo.png" ,عـــمّــــان
@@ -183,29 +183,29 @@ https://edge.taghtia.com/sa/16.m3u8
 #EXTINF:-1 tvg-id="KSASports4.sa" tvg-logo="https://aloula.faulio.com/storage/mediagallery/1e/47/small_a4446176a6ae3f240cedf1bd07d782dfe32a76cf.png",السعودية الرياضية 4
 https://edge.taghtia.com/sa/17.m3u8
 #EXTINF:-1 tvg-id="MBC1.ae" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_1_0bf58055e9.svg" ,MBC 1
-https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
+https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTINF:-1 tvg-id="MBC 2" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_2_5ae3f15729.svg" ,MBC 2
 
 #EXTINF:-1 tvg-id="MBC3.ae" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_3_dae34fae7b.svg" ,MBC 3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
 #EXTINF:-1 tvg-id="MBC 4 HD+" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_4_8d4307615e.svg" ,MBC 4
-https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
 #EXTINF:-1 tvg-id="MBC 5 HD+" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_5_cf153622ec.svg" ,MBC 5
-https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
 #EXTINF:-1 tvg-id="MBCAction.ae" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_action_33b48024b3.svg" ,MBC ACTION
 
 #EXTINF:-1 tvg-id="MBCMax.ae" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_max_33d6507438.svg" ,MBC MAX
 
 #EXTINF:-1 tvg-id="MBCDramaHD.us" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_drama_a536283ae5.svg" ,MBC DRAMA
-https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
+https://mbcdrama-usa-enc.edgenextcdn.net/out/v1/876f960feec24a8aba9e9d3f9023174b/index.m3u8
 #EXTINF:-1 tvg-id="MBCDramaPlus.ae" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_drama_1_8592a27973.svg" ,MBC DRAMA+
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
 #EXTINF:-1 tvg-id="MBCBollywood.ae" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_bollywood_d2bef5e158.svg" ,MBC BOLLYWOOD
-https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_variety_aaa60f39e8.svg" ,MBC VARIETY
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_iraq_716ec2b8be.svg" ,MBC IRAQ 
-https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_wanasah_6e5de3ccae.svg" ,WANASAH
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_fm_a8ecfac455.svg" ,MBC FM
