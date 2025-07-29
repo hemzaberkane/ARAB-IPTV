@@ -681,7 +681,7 @@ https://github.com/MassinDV/Youtube-arabic-channels/raw/main/live/ch47.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://medina-tv.com/wp-content/uploads/2021/07/logo.png" ,المدينة
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://saharamedias.net/wp-content/uploads/2024/04/Sahara24Live-1-1.gif" ,صحراء 24
-https://live.saharamedias.net/sahara24-live/tracks-v1a1/mono.m3u8
+https://live.saharamedias.net:3317/live/shara24live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/This_was_4_of_Dafydd_Evans%27_children..gif",أطفال
 0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/sa/spacetoon.png" ,Space Toon FHD
