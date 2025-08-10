@@ -45,3 +45,5 @@ http://cihan.dwasat.com/upload/images/cihanhd.m3u8
 http://ishtar.cdncast.xyz:1935/live/iShtarHD/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://phoneky.co.uk/thumbs/android/thumbs/ico/3/s/kurd-channel-android.jpg" ,Kurd TV
 https://kurd-channel.ikoflix.com/hls/stream_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://zoomnews.info/wp-content/themes/soledad/images/logo.png" ,ZOOM
+https://live.zoomnews.info/live/Zoom/index.m3u8
