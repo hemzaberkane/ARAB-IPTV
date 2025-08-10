@@ -298,12 +298,8 @@ https://mn-nl.mncdn.com/utviraqi2/64c80359/chunklist.m3u8
 https://media1.livaat.com/static/AL-RASHEED-HD/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://alrafidain.tv/wp-content/uploads/2024/05/New-Project-6.png" ,الرافدين
 https://arrafidain.tvplayer.online/arrafidaintv/source2/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://alghadeertv.iq/wp-content/uploads/2021/03/Broadcast_v3.png" , الغدير 
-https://s1.ettehadlive.com/live/2/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://afaq.iq/static/images/site/logo_afaq2.png" ,أفاق
-https://s1.ettehadlive.com/live/1/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://alahad.iq/img/logo.png" ,العهد
-https://148.66.130.171:1935/AlahadLiveStream/AlahadLiveStream_360p/chunklist_w1753655915.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.alnahrain.com/templates/default/assets/images/black-logo.png" ,النّهرين
+https://stream.alnahrain.tv/AlnahrainTV/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://alrabiaa.faulio.com/storage/mediagallery/0c/c5/fullhd_d8d18b714df2265bcb61d11ebb9ca0175511aa7f.png" ,الرّابعة off
 https://206222.global.ssl.fastly.net/65045e4aba85cfe0025e4a60/live_c6c4040053cd11ee95b47153d2861736/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.alfallujah.tv/sites/all/themes/progressive/progressive_sub/logo.png" ,الفلوجة
@@ -778,4 +774,5 @@ https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u
 #EXTINF:-1 tvg-id="France24.svn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/635px-France24.png",FRANCE 24 EN
 https://new.cache-stream.workers.dev/stream/UCQfwfsi5VrQ8yKZ-UWmAEFg/live.m3u8
+
 
