@@ -10,7 +10,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/kesheti
 #EXTINF:0 tvg-id="Channel13.il" tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg" ,Reshet 13
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
 #EXTINF:0 tvg-id="Channel14.il" tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png" ,NOW 14
-https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
+https://ch14channel14content-ioriver-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:0 tvg-id="Channel0.il" tvg-logo="https://tv10.co.il/wp-content/uploads/2024/01/logo-calclatv-1536x372.png" ,Channel 10
 https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8
 #EXTINF:0 tvg-id="Channel23.il" tvg-logo="https://i.ibb.co/0cGcHCD/23.jpg" ,Hinuchit 23
@@ -33,4 +33,5 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01742-walla-wallanews-ono/playlist.
 https://kneset.gostreaming.tv/p2-kneset/_definst_/myStream/playlist.m3u8
 #EXTINF:0  tvg-id="HalaTV.il" tvg-logo="https://i.ibb.co/MG43H4H/hala.png",PANET 30 HALA
 https://stream.panet.com/edge/halaTV/chunks.m3u8
+
 
