@@ -283,7 +283,7 @@ https://5d94523502c2d.streamlock.net/home/mystream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.alsharqiya.com/Content/web-assets/img/logo.png" ,الشرقية الإخبارية
 https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://alawla.tv/templates/Default/images/logo.png" , الأولــــى
-https://63b03f7689049.streamlock.net/live/_definst_/1tv/chunklist.m3u8
+https://live.alawla.tv/hls/2/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.alsumaria.tv/uploadImages/ProgramsImages/Channels-L-1-636916940695846700.png" ,السومرية
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/logo-new1.png" ,دجلة
@@ -769,6 +769,7 @@ https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u
 #EXTINF:-1 tvg-id="France24.svn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/635px-France24.png",FRANCE 24 EN
 https://new.cache-stream.workers.dev/stream/UCQfwfsi5VrQ8yKZ-UWmAEFg/live.m3u8
+
 
 
 
