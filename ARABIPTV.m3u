@@ -286,7 +286,7 @@ https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/chunklist.m3u8
 https://live.alawla.tv/hls/2/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.alsumaria.tv/uploadImages/ProgramsImages/Channels-L-1-636916940695846700.png" ,السومرية
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/logo-new1.png" ,دجلة
+#EXTINF:-1 tvg-id="" tvg-logo="https://dijlah.tv/LogoMob.png" ,دجلة
 https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://utviraq.net/wp-content/uploads/2020/12/logo-icon.png" ,UTV Iraq
 https://mn-nl.mncdn.com/utviraqi2/64c80359/chunklist.m3u8
@@ -297,7 +297,7 @@ https://arrafidain.tvplayer.online/arrafidaintv/source2/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.alnahrain.com/templates/default/assets/images/black-logo.png" ,النّهرين
 https://stream.alnahrain.tv/AlnahrainTV/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://alrabiaa.faulio.com/storage/mediagallery/0c/c5/fullhd_d8d18b714df2265bcb61d11ebb9ca0175511aa7f.png" ,الرّابعة off
-https://206222.global.ssl.fastly.net/65045e4aba85cfe0025e4a60/live_c6c4040053cd11ee95b47153d2861736/index.fmp4.m3u8
+https://stream.castr.com/65045e4aba85cfe0025e4a60/live_c6c4040053cd11ee95b47153d2861736/index.fmp4.m3u8|Referer=https://player.castr.com/live_c6c4040053cd11ee95b47153d2861736
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.alfallujah.tv/sites/all/themes/progressive/progressive_sub/logo.png" ,الفلوجة
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.i-news.tv/wp-content/uploads/2020/11/new-white-logo-1.png" ,i news 
@@ -561,11 +561,11 @@ https://amsart-live.ercdn.net/salamtv/salamtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://almasartv.ly/wp-content/uploads/2022/01/logo.png" ,المسار
 https://starmenajo.com/hls/almasar/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/b1S25fP/libya-ahrar.png" ,ليبيا الأحرار
-
+https://stream.castr.com/64490fcefe045f1b63012886/live_8c1539b0eb6c11eda9f0c7bd90506d4f/index.m3u8|Referer=https://player.castr.com/live_8c1539b0eb6c11eda9f0c7bd90506d4f
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/svdWnwb/libyach.webp" ,قناة ليبيا off
 https://master.starmena-cloud.com/hls/libyas.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/p1khXv7/wtv.png" ,الوسط 
-https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/alwasattv/alwasat_1080p/chunks.m3u8
+https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/playlist.m3u8|Referer=https://alwasat.ly/
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/YLrrhGK/febrayer.png" ,فبراير
 https://b01c02nl.mediatriple.net/videoonlylive/mtfknklgwrlive/broadcast_5dc818c793576.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/X5222cT/jamahiria.png" ,الجماهيرية
@@ -574,11 +574,6 @@ https://master.starmena-cloud.com/hls/jam.m3u8
 http://82.212.74.100:8000/live/8103.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://libyabusinesstv.com/wp-content/uploads/2022/06/Logo-V.png" ,ليبيا الإقتصادية off
 https://media1.livaat.com/live/Libya-bussness/index.m3u8
-#EXTINF:-1 tvg-id="",February Channel 
-https://b01c02nl.mediatriple.net/videoonlylive/mtfknklgwrlive/broadcast_5dc818c793576.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="",Libya Al Ahrar TV 
-#EXTVLCOPT:http-referrer=https://player.castr.com/live_8c1539b0eb6c11eda9f0c7bd90506d4f
-https://stream.castr.com/64490fcefe045f1b63012886/live_8c1539b0eb6c11eda9f0c7bd90506d4f/index.m3u8
 #EXTINF:-1 tvg-id="",Libya Al Wataniya 
 https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Flag_of_Egypt%28Moving%29.gif",مــــصـــر
@@ -769,6 +764,7 @@ https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u
 #EXTINF:-1 tvg-id="France24.svn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/635px-France24.png",FRANCE 24 EN
 https://new.cache-stream.workers.dev/stream/UCQfwfsi5VrQ8yKZ-UWmAEFg/live.m3u8
+
 
 
 
