@@ -379,14 +379,14 @@ https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
 0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://yementv.tv/wp-content/uploads/2019/11/logo-Yemen-01-copy.png" ,اليمن 1 
 https://yementv.tv/live
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
+#EXTINF:-1 tvg-id="" tvg-logo="" ,عــــدن
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/adentv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://suhail.net/themes/default/images/arabic/logo.jpg" ,سهيل 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.hadhramaut.tv/img/1605966334logo.png" ,حضرموت
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/hadhramaut.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.alghadye.com/wp-content/uploads/2018/07/image1.png",الغد المشرق
-
+https://starmenajo.com/hls/almahriah/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" ,بلقيس off
 https://github.com/MassinDV/Youtube-arabic-channels/raw/main/live/ch45.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yemenshabab.net/images/logo.png" ,يمن شباب
@@ -764,6 +764,7 @@ https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u
 #EXTINF:-1 tvg-id="France24.svn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/635px-France24.png",FRANCE 24 EN
 https://new.cache-stream.workers.dev/stream/UCQfwfsi5VrQ8yKZ-UWmAEFg/live.m3u8
+
 
 
 
