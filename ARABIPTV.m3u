@@ -174,6 +174,18 @@ https://thaqafeyyah-ak.akamaized.net/out/v1/f6851f68ada94f82ae6b64a441eb5ab1/ind
 
 #EXTINF:-1 tvg-id="KSASports4.sa" tvg-logo="https://aloula.faulio.com/storage/mediagallery/1e/47/small_a4446176a6ae3f240cedf1bd07d782dfe32a76cf.png",السعودية الرياضية 4
 
+#EXTINF:-1  tvg-logo="https://aloula.faulio.com/storage/mediagallery/37/1a/fullhd_399eddcc4305f34f41c7fab24c3518fab5d55d97.png",إذاعـــــة الـــرّيـــاض
+https://live.kwikmotion.com/sbrksariyadhradiolive/srpksariyadhradio/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://aloula.faulio.com/storage/mediagallery/bd/f5/fullhd_527bf54a5adb56ac17f572ac2cd0801304db3baf.png", إذاعـــة جـــــدّة
+
+#EXTINF:-1  tvg-logo="https://aloula.faulio.com/storage/mediagallery/5b/98/fullhd_da335fc25afb1da620b54d6464dcf43738984d0e.png", Saudi Radio 
+https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://aloula.faulio.com/storage/mediagallery/0f/c5/fullhd_5da380cdfc304fd7d4672a83aeb6c62bc1d3d3e8.png", إذاعة نــــداء الإســـــلام
+https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://aloula.faulio.com/storage/mediagallery/14/da/fullhd_823bc2fe722ede75410492d57fd6c201208b4224.png", إذاعــــة الـــقرآن الـكــــريم
+https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://aloula.faulio.com/storage/mediagallery/55/46/fullhd_4ee3bec687bf3b0c2af09baafaa1e5628a118224.png", إذاعـــة خُـــــزامــــى
+https://live.kwikmotion.com/sbrksakhuzamaradiolive/srpkhuzama/playlist.m3u8
 #EXTINF:-1 tvg-id="MBC1.ae" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_1_0bf58055e9.svg" ,MBC 1
 https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTINF:-1 tvg-id="MBC 2" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_2_5ae3f15729.svg" ,MBC 2
@@ -722,5 +734,6 @@ https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qMFKcBh/CGTN-arabic.png", CGTN العربية
 https://livear.cgtn.com/1000a/prog_index.m3u8
+
 
 
