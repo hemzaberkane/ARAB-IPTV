@@ -390,7 +390,7 @@ https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_yemen.gif",اليمن
 0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://yementv.tv/wp-content/uploads/2019/11/logo-Yemen-01-copy.png" ,اليمن 1 
-https://yementv.tv/live
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/yementv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" ,عــــدن
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/adentv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://suhail.net/themes/default/images/arabic/logo.jpg" ,سهيل 
@@ -736,6 +736,7 @@ https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qMFKcBh/CGTN-arabic.png", CGTN العربية
 https://livear.cgtn.com/1000a/prog_index.m3u8
+
 
 
 
