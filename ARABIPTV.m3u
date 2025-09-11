@@ -562,13 +562,15 @@ http://185.9.2.18/chid_312/index.m3u8
 https://edge.fastpublish.me/live/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.almayadeen.tv/images/logo/new-logo-small.png" ,الميادين
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.redtvlebanon.com/assets/images/REDTV.svg" ,RED 
+https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/lb/nabaa.png" ,نبأ
 https://655ca86f46b1f.streamlock.net/live/Nabaa/chunklist_w1831890321.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.alittihad.tv/live/assets/images/logo_new.png" ,الإتحاد
 https://live.alittihad.tv:444/ittihad/chunklist_w873294720.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Animated-Flag-Libya.gif",لـيـــبـــيــا
 0.0.0.0
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/vzZ6yvs/salam.png" group- ,سلام
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/vzZ6yvs/salam.png" ,سلام
 https://amsart-live.ercdn.net/salamtv/salamtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://almasartv.ly/wp-content/uploads/2022/01/logo.png" ,المسار
 https://starmenajo.com/hls/almasar/index.m3u8
@@ -734,6 +736,7 @@ https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qMFKcBh/CGTN-arabic.png", CGTN العربية
 https://livear.cgtn.com/1000a/prog_index.m3u8
+
 
 
 
