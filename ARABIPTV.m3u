@@ -558,13 +558,13 @@ https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
 https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
 #EXTINF:-1 tvg-id="https://www.vdl.me/wp-content/uploads/2020/11/54671-logo.jpg",صوت لبنان 
 https://svs.itworkscdn.net/vdltvlive/vdltv.smil/vdltvpublish/vdltv/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://vod.otv.com.lb/wp-content/themes/otv/inc/assets/images/logo.svg" ,OTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/OTV_%28logo%29.svg/128px-OTV_%28logo%29.svg.png" ,OTV
 http://185.9.2.18/chid_312/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.almanar.com.lb/framework/assets/images/logo-tech.png" ,المنار
+#EXTINF:-1 tvg-id="" tvg-logo="https://almanar.com.lb/framework/assets/images/manar-logo.png" ,المنار
 https://edge.fastpublish.me/live/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.almayadeen.tv/images/logo/new-logo-small.png" ,الميادين
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.redtvlebanon.com/assets/images/REDTV.svg" ,RED 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.redtvlebanon.com/assets/images/REDTV.svg" ,RED لبنان
 https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/lb/nabaa.png" ,نبأ
 https://655ca86f46b1f.streamlock.net/live/Nabaa/chunklist_w1831890321.m3u8
@@ -738,6 +738,7 @@ https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qMFKcBh/CGTN-arabic.png", CGTN العربية
 https://livear.cgtn.com/1000a/prog_index.m3u8
+
 
 
 
